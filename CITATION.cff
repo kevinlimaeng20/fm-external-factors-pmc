@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Foundation models, external factors and production planning decisions: reproduction package"
+authors:
+  - family-names: Alves
+    given-names: Francisco Kevin Lima
+    affiliation: "Independent Researcher, Brazil"
+    email: kevinlima9242@gmail.com
+version: "v3"
+date-released: 2026-10-20
+license: MIT
+repository-code: "https://github.com/kevinlimaeng20/fm-external-factors-pmc"
+keywords: [demand forecasting, foundation models, external factors, production planning, newsvendor]
