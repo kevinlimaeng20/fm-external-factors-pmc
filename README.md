@@ -1,5 +1,7 @@
 # Foundation models, external factors and production planning decisions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23499821.svg)](https://doi.org/10.5281/zenodo.23499821)
+
 Reproduction package for the study **"Foundation models, external factors and production planning decisions: Evidence from 171 Brazilian retail demand series"** (Francisco Kevin Lima Alves, Independent Researcher, Brazil).
 
 The study compares time series foundation models used zero-shot (Chronos-Bolt small and base, TimesFM 2.5, Moirai 2.0 and Chronos-2) with statistical methods (seasonal naive, ETS, Theta, ARIMA), a tuned global LightGBM model and forecast combinations. It uses 171 monthly retail sales volume series from the Brazilian Monthly Trade Survey (PMC/IBGE, January 2000 to August 2026) and a rolling-origin design with 38 origins and horizons of 1 to 12 months. Each probabilistic forecast (nine deciles) becomes a newsvendor commitment, which is evaluated on realised inventory cost, service level, lead time and the December peak. In addition, 28 external factors (economy, policy, world, climate and calendar) are aligned with their publication lags and added to LightGBM and Chronos-2.
@@ -69,4 +71,4 @@ Code: MIT (see `LICENSE`). Source data remain under the terms of their providers
 
 ## Citation
 
-See `CITATION.cff` and the Zenodo DOI badge of this repository.
+Alves, F. K. L. (2026). *Foundation models, external factors and production planning decisions: reproduction package* (v3). Zenodo. https://doi.org/10.5281/zenodo.23500176 (all versions: https://doi.org/10.5281/zenodo.23499821). See also `CITATION.cff`.

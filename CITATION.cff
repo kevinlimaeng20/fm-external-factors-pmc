@@ -8,6 +8,7 @@ authors:
     email: kevinlima9242@gmail.com
 version: "v3"
 date-released: 2026-10-20
+doi: 10.5281/zenodo.23499821
 license: MIT
 repository-code: "https://github.com/kevinlimaeng20/fm-external-factors-pmc"
 keywords: [demand forecasting, foundation models, external factors, production planning, newsvendor]
