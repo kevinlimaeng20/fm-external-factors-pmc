@@ -1,0 +1,10 @@
+modelo,rank_medio,dentro_cd_do_melhor
+LightGBM global,3.7485380116959064,True
+Moirai 2.0 small,3.9766081871345027,True
+TimesFM 2.5,4.362573099415204,True
+ARIMA,4.456140350877193,True
+ETS,4.935672514619883,False
+Chronos-Bolt base,5.444444444444445,False
+Theta,5.514619883040936,False
+Chronos-Bolt small,5.994152046783626,False
+Seasonal naive,6.567251461988304,False

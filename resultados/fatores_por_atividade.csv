@@ -1,0 +1,127 @@
+novo,referencia,dimensao,grupo,n_series,razao_mase,pct_series_melhora
+LightGBM + external factors,LightGBM global,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,0.9831390980413034,69.23076923076923
+LightGBM + external factors,LightGBM global,ativ,Combustíveis e lubrificantes,13,1.0234462245488414,30.76923076923077
+LightGBM + external factors,LightGBM global,ativ,Eletrodomésticos,13,0.9994946063532371,53.84615384615385
+LightGBM + external factors,LightGBM global,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,0.9675100878421223,92.3076923076923
+LightGBM + external factors,LightGBM global,ativ,Hipermercados e supermercados,13,0.9763546338959462,76.92307692307693
+LightGBM + external factors,LightGBM global,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,0.9506475879752609,76.92307692307693
+LightGBM + external factors,LightGBM global,ativ,"Livros, jornais, revistas e papelaria",13,0.9518741769302336,84.61538461538461
+LightGBM + external factors,LightGBM global,ativ,Móveis,13,0.9897376843858331,53.84615384615385
+LightGBM + external factors,LightGBM global,ativ,Móveis e eletrodomésticos,13,0.9639255109927392,69.23076923076923
+LightGBM + external factors,LightGBM global,ativ,Outros artigos de uso pessoal e doméstico,13,1.0063865850413238,61.53846153846154
+LightGBM + external factors,LightGBM global,ativ,"Tecidos, vestuário e calçados",13,0.9950273570915842,61.53846153846154
+LightGBM + external factors,LightGBM global,ativ,Varejo total,28,0.8896831013026192,89.28571428571429
+LightGBM + external factors,LightGBM global,regiao,Brazil,12,0.9213604970667277,75.0
+LightGBM + external factors,LightGBM global,regiao,Centre-West,26,0.973057584247138,57.692307692307686
+LightGBM + external factors,LightGBM global,regiao,North,7,0.9325313784697481,71.42857142857143
+LightGBM + external factors,LightGBM global,regiao,Northeast,42,0.9652286515960395,73.80952380952381
+LightGBM + external factors,LightGBM global,regiao,South,36,0.9840798975162524,77.77777777777779
+LightGBM + external factors,LightGBM global,regiao,Southeast,48,0.9674860294591708,66.66666666666666
+LightGBM + external factors (oracle),LightGBM global,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,0.9903470965579929,53.84615384615385
+LightGBM + external factors (oracle),LightGBM global,ativ,Combustíveis e lubrificantes,13,1.0647409829792922,15.384615384615385
+LightGBM + external factors (oracle),LightGBM global,ativ,Eletrodomésticos,13,0.9329606503787942,84.61538461538461
+LightGBM + external factors (oracle),LightGBM global,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,0.9856159591239819,69.23076923076923
+LightGBM + external factors (oracle),LightGBM global,ativ,Hipermercados e supermercados,13,0.9643626344986004,69.23076923076923
+LightGBM + external factors (oracle),LightGBM global,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,0.9493949372775551,76.92307692307693
+LightGBM + external factors (oracle),LightGBM global,ativ,"Livros, jornais, revistas e papelaria",13,0.9605883114620007,92.3076923076923
+LightGBM + external factors (oracle),LightGBM global,ativ,Móveis,13,1.0048918460600638,53.84615384615385
+LightGBM + external factors (oracle),LightGBM global,ativ,Móveis e eletrodomésticos,13,0.929159505887691,92.3076923076923
+LightGBM + external factors (oracle),LightGBM global,ativ,Outros artigos de uso pessoal e doméstico,13,1.021334818887163,61.53846153846154
+LightGBM + external factors (oracle),LightGBM global,ativ,"Tecidos, vestuário e calçados",13,1.010723024756043,53.84615384615385
+LightGBM + external factors (oracle),LightGBM global,ativ,Varejo total,28,0.9532870627336094,67.85714285714286
+LightGBM + external factors (oracle),LightGBM global,regiao,Brazil,12,0.9557016382738418,83.33333333333334
+LightGBM + external factors (oracle),LightGBM global,regiao,Centre-West,26,0.9677818814315842,73.07692307692307
+LightGBM + external factors (oracle),LightGBM global,regiao,North,7,1.0016244170072723,42.857142857142854
+LightGBM + external factors (oracle),LightGBM global,regiao,Northeast,42,0.9472912365305135,76.19047619047619
+LightGBM + external factors (oracle),LightGBM global,regiao,South,36,0.9774426092904783,75.0
+LightGBM + external factors (oracle),LightGBM global,regiao,Southeast,48,1.012382069300574,45.83333333333333
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,1.0073316161782702,46.15384615384615
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Combustíveis e lubrificantes,13,1.0403487329768153,23.076923076923077
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Eletrodomésticos,13,0.9334324011840353,69.23076923076923
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,1.018713883720057,15.384615384615385
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Hipermercados e supermercados,13,0.9877175782435792,46.15384615384615
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,0.9986823185441687,53.84615384615385
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,"Livros, jornais, revistas e papelaria",13,1.0091547126111458,38.46153846153847
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Móveis,13,1.015311290974673,38.46153846153847
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Móveis e eletrodomésticos,13,0.9639328924189974,46.15384615384615
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Outros artigos de uso pessoal e doméstico,13,1.0148533715254413,30.76923076923077
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,"Tecidos, vestuário e calçados",13,1.0157741066640986,38.46153846153847
+LightGBM + external factors (oracle),LightGBM + external factors,ativ,Varejo total,28,1.071490580564996,32.142857142857146
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,Brazil,12,1.0372722092128366,25.0
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,Centre-West,26,0.99457822137049,46.15384615384615
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,North,7,1.0740919181195847,28.57142857142857
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,Northeast,42,0.981416408396222,57.14285714285714
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,South,36,0.9932553360326473,47.22222222222222
+LightGBM + external factors (oracle),LightGBM + external factors,regiao,Southeast,48,1.0464048456250064,18.75
+LightGBM + selected factors,LightGBM global,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,0.9936857648947212,53.84615384615385
+LightGBM + selected factors,LightGBM global,ativ,Combustíveis e lubrificantes,13,1.0222633173261713,30.76923076923077
+LightGBM + selected factors,LightGBM global,ativ,Eletrodomésticos,13,0.9801283274353624,69.23076923076923
+LightGBM + selected factors,LightGBM global,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,0.9694406911545301,92.3076923076923
+LightGBM + selected factors,LightGBM global,ativ,Hipermercados e supermercados,13,0.9605308093324441,76.92307692307693
+LightGBM + selected factors,LightGBM global,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,0.9409563610621163,84.61538461538461
+LightGBM + selected factors,LightGBM global,ativ,"Livros, jornais, revistas e papelaria",13,0.9576997987322432,84.61538461538461
+LightGBM + selected factors,LightGBM global,ativ,Móveis,13,0.9877624377539103,53.84615384615385
+LightGBM + selected factors,LightGBM global,ativ,Móveis e eletrodomésticos,13,0.953841657255074,76.92307692307693
+LightGBM + selected factors,LightGBM global,ativ,Outros artigos de uso pessoal e doméstico,13,0.9986392982810015,69.23076923076923
+LightGBM + selected factors,LightGBM global,ativ,"Tecidos, vestuário e calçados",13,0.9853231871837614,76.92307692307693
+LightGBM + selected factors,LightGBM global,ativ,Varejo total,28,0.8922621818019157,92.85714285714286
+LightGBM + selected factors,LightGBM global,regiao,Brazil,12,0.920123105244392,75.0
+LightGBM + selected factors,LightGBM global,regiao,Centre-West,26,0.9680986896743502,73.07692307692307
+LightGBM + selected factors,LightGBM global,regiao,North,7,0.9491971451522664,71.42857142857143
+LightGBM + selected factors,LightGBM global,regiao,Northeast,42,0.9530529888990132,78.57142857142857
+LightGBM + selected factors,LightGBM global,regiao,South,36,0.9762222746353196,77.77777777777779
+LightGBM + selected factors,LightGBM global,regiao,Southeast,48,0.9708412197960403,66.66666666666666
+Chronos-2 + external factors,Chronos-2,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,1.0103517264521025,38.46153846153847
+Chronos-2 + external factors,Chronos-2,ativ,Combustíveis e lubrificantes,13,1.026093087334202,53.84615384615385
+Chronos-2 + external factors,Chronos-2,ativ,Eletrodomésticos,13,1.1020551483119296,15.384615384615385
+Chronos-2 + external factors,Chronos-2,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,1.0131183713726655,46.15384615384615
+Chronos-2 + external factors,Chronos-2,ativ,Hipermercados e supermercados,13,1.0302029540134063,53.84615384615385
+Chronos-2 + external factors,Chronos-2,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,1.0429742853554058,46.15384615384615
+Chronos-2 + external factors,Chronos-2,ativ,"Livros, jornais, revistas e papelaria",13,1.0822667036757765,7.6923076923076925
+Chronos-2 + external factors,Chronos-2,ativ,Móveis,13,0.9954935400756285,46.15384615384615
+Chronos-2 + external factors,Chronos-2,ativ,Móveis e eletrodomésticos,13,1.0883501055117097,7.6923076923076925
+Chronos-2 + external factors,Chronos-2,ativ,Outros artigos de uso pessoal e doméstico,13,1.0505387822004377,23.076923076923077
+Chronos-2 + external factors,Chronos-2,ativ,"Tecidos, vestuário e calçados",13,1.0102612201912249,61.53846153846154
+Chronos-2 + external factors,Chronos-2,ativ,Varejo total,28,1.156339720809275,3.571428571428571
+Chronos-2 + external factors,Chronos-2,regiao,Brazil,12,1.0541460387709516,41.66666666666667
+Chronos-2 + external factors,Chronos-2,regiao,Centre-West,26,1.0327269355565742,30.76923076923077
+Chronos-2 + external factors,Chronos-2,regiao,North,7,1.1694057131125675,14.285714285714285
+Chronos-2 + external factors,Chronos-2,regiao,Northeast,42,1.0759940139824582,28.57142857142857
+Chronos-2 + external factors,Chronos-2,regiao,South,36,1.073909527748595,25.0
+Chronos-2 + external factors,Chronos-2,regiao,Southeast,48,1.032540258816905,37.5
+Chronos-2 + selected factors,Chronos-2,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,0.9902470332985238,46.15384615384615
+Chronos-2 + selected factors,Chronos-2,ativ,Combustíveis e lubrificantes,13,1.0452821093943465,46.15384615384615
+Chronos-2 + selected factors,Chronos-2,ativ,Eletrodomésticos,13,1.0549522197529024,23.076923076923077
+Chronos-2 + selected factors,Chronos-2,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,1.0057680645890354,46.15384615384615
+Chronos-2 + selected factors,Chronos-2,ativ,Hipermercados e supermercados,13,1.02013925336752,53.84615384615385
+Chronos-2 + selected factors,Chronos-2,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,1.0314667162308873,53.84615384615385
+Chronos-2 + selected factors,Chronos-2,ativ,"Livros, jornais, revistas e papelaria",13,1.0596879831426609,30.76923076923077
+Chronos-2 + selected factors,Chronos-2,ativ,Móveis,13,1.0145413557771745,38.46153846153847
+Chronos-2 + selected factors,Chronos-2,ativ,Móveis e eletrodomésticos,13,1.0563598677449573,15.384615384615385
+Chronos-2 + selected factors,Chronos-2,ativ,Outros artigos de uso pessoal e doméstico,13,1.0232012108989366,38.46153846153847
+Chronos-2 + selected factors,Chronos-2,ativ,"Tecidos, vestuário e calçados",13,1.0163707446548143,46.15384615384615
+Chronos-2 + selected factors,Chronos-2,ativ,Varejo total,28,1.1413249008677533,3.571428571428571
+Chronos-2 + selected factors,Chronos-2,regiao,Brazil,12,1.0449744251653492,41.66666666666667
+Chronos-2 + selected factors,Chronos-2,regiao,Centre-West,26,1.0306081142211663,38.46153846153847
+Chronos-2 + selected factors,Chronos-2,regiao,North,7,1.1619166264745446,14.285714285714285
+Chronos-2 + selected factors,Chronos-2,regiao,Northeast,42,1.0574481506893978,26.190476190476193
+Chronos-2 + selected factors,Chronos-2,regiao,South,36,1.073690468693228,25.0
+Chronos-2 + selected factors,Chronos-2,regiao,Southeast,48,1.00999118940692,45.83333333333333
+Combination: all models + external factors,Combination: all models,ativ,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",13,0.9964005463301343,61.53846153846154
+Combination: all models + external factors,Combination: all models,ativ,Combustíveis e lubrificantes,13,0.9919709631492826,69.23076923076923
+Combination: all models + external factors,Combination: all models,ativ,Eletrodomésticos,13,0.9860350670289239,76.92307692307693
+Combination: all models + external factors,Combination: all models,ativ,"Equipamentos e materiais para escritório, informática e comunicação",13,1.0074295454629414,30.76923076923077
+Combination: all models + external factors,Combination: all models,ativ,Hipermercados e supermercados,13,0.9917549166569327,76.92307692307693
+Combination: all models + external factors,Combination: all models,ativ,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",13,0.9952316448161812,61.53846153846154
+Combination: all models + external factors,Combination: all models,ativ,"Livros, jornais, revistas e papelaria",13,0.9759234690034819,76.92307692307693
+Combination: all models + external factors,Combination: all models,ativ,Móveis,13,0.9776009291654809,92.3076923076923
+Combination: all models + external factors,Combination: all models,ativ,Móveis e eletrodomésticos,13,0.993830250930903,53.84615384615385
+Combination: all models + external factors,Combination: all models,ativ,Outros artigos de uso pessoal e doméstico,13,0.9551412269015711,100.0
+Combination: all models + external factors,Combination: all models,ativ,"Tecidos, vestuário e calçados",13,0.9264437016139161,92.3076923076923
+Combination: all models + external factors,Combination: all models,ativ,Varejo total,28,0.9772601003472916,75.0
+Combination: all models + external factors,Combination: all models,regiao,Brazil,12,0.9753148684916984,91.66666666666666
+Combination: all models + external factors,Combination: all models,regiao,Centre-West,26,0.9886790209443165,65.38461538461539
+Combination: all models + external factors,Combination: all models,regiao,North,7,0.9707860153527301,71.42857142857143
+Combination: all models + external factors,Combination: all models,regiao,Northeast,42,0.9751597106176741,78.57142857142857
+Combination: all models + external factors,Combination: all models,regiao,South,36,0.9886549954294533,61.111111111111114
+Combination: all models + external factors,Combination: all models,regiao,Southeast,48,0.9780969672897822,75.0

@@ -1,0 +1,14 @@
+linhas: 538884
+ablacao | atributos: 53 | covariáveis: 32
+Base (own history only) 0.6991
+All external factors 0.679
+All minus Calendar 0.6811
+All minus Climate 0.6768
+All minus Economy 0.6863
+All minus Policy 0.6767
+All minus World 0.6762
+Base plus Calendar 0.689
+Base plus Climate 0.7117
+Base plus Economy 0.6829
+Base plus Policy 0.6998
+Base plus World 0.7173

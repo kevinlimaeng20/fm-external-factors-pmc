@@ -1,0 +1,7 @@
+covariáveis: ['selic', 'cambio', 'ibcbr', 'credito_pf', 'confianca', 'desocup', 'massa_renda', 'temp_anom', 'chuva_anom', 'dias_uteis', 'pascoa_mes', 'carnaval_mes']
+sel: 1/38 origens, 206s
+sel: 5/38 origens, 1106s
+sel: 10/38 origens, 2214s
+sel: 20/38 origens, 3088s
+sel: 30/38 origens, 3718s
+Chronos-2 + selected factors 77976 linhas em 4254s

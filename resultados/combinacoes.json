@@ -1,0 +1,35 @@
+{
+ "validacao_rel_mase": {
+  "ETS": 0.85,
+  "Moirai 2.0 small": 0.856,
+  "TimesFM 2.5": 0.8591,
+  "Theta": 0.8631,
+  "LightGBM global": 0.8699,
+  "Chronos-Bolt base": 0.9023,
+  "ARIMA": 0.9023,
+  "Chronos-Bolt small": 0.9179
+ },
+ "membros": {
+  "Combination: top-3 in validation": [
+   "ETS",
+   "Moirai 2.0 small",
+   "TimesFM 2.5"
+  ],
+  "Combination: all models": [
+   "ETS",
+   "Moirai 2.0 small",
+   "TimesFM 2.5",
+   "Theta",
+   "LightGBM global",
+   "Chronos-Bolt base",
+   "ARIMA",
+   "Chronos-Bolt small"
+  ],
+  "Combination: foundation models": [
+   "Chronos-Bolt small",
+   "Chronos-Bolt base",
+   "TimesFM 2.5",
+   "Moirai 2.0 small"
+  ]
+ }
+}

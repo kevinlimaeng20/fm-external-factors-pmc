@@ -1,0 +1,8 @@
+linhas: 538884
+selecionado | atributos: 53 | covariáveis: 32
+grupos selecionados: ['Calendar', 'Climate', 'Economy'] | atributos: 41
+selecionado reajuste 2022-07-01: treino 379854, previsões 24624, 380s
+selecionado reajuste 2023-07-01: treino 404478, previsões 24624, 781s
+selecionado reajuste 2024-07-01: treino 429102, previsões 24624, 835s
+selecionado reajuste 2025-07-01: treino 453726, previsões 4104, 787s
+ok 77976

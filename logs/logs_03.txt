@@ -1,0 +1,20 @@
+Chronos-Bolt small: 77976 linhas em 147s -> previsoes/Chronos-Bolt_small.parquet
+Chronos-Bolt base: 77976 linhas em 384s -> previsoes/Chronos-Bolt_base.parquet
+TimesFM 2.5: 77976 linhas em 3157s -> previsoes/TimesFM_25.parquet
+Traceback (most recent call last):
+  File "/home/claude/fm_pmc/03b_moirai.py", line 32, in <module>
+    out.to_parquet("previsoes/Moirai_20_small.parquet", index=False)
+  File "/home/claude/fm_pmc/venv_moirai/lib/python3.11/site-packages/pandas/core/frame.py", line 2970, in to_parquet
+    return to_parquet(
+           ^^^^^^^^^^^
+  File "/home/claude/fm_pmc/venv_moirai/lib/python3.11/site-packages/pandas/io/parquet.py", line 479, in to_parquet
+    impl = get_engine(engine)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/claude/fm_pmc/venv_moirai/lib/python3.11/site-packages/pandas/io/parquet.py", line 66, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.
+FIM_FM

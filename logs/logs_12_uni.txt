@@ -1,0 +1,6 @@
+uni: 1/38 origens, 19s
+uni: 5/38 origens, 90s
+uni: 10/38 origens, 181s
+uni: 20/38 origens, 367s
+uni: 30/38 origens, 551s
+Chronos-2 77976 linhas em 709s

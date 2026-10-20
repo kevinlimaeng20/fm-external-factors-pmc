@@ -1,0 +1,7 @@
+linhas: 538884
+shap | atributos: 53 | covariáveis: 32
+real reajuste 2022-07-01: treino 379854, previsões 24624, 179s
+real reajuste 2023-07-01: treino 404478, previsões 24624, 180s
+real reajuste 2024-07-01: treino 429102, previsões 24624, 249s
+real reajuste 2025-07-01: treino 453726, previsões 4104, 242s
+ok 0

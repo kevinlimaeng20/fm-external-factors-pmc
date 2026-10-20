@@ -1,0 +1,114 @@
+faltando: Chronos-2_oraculo.parquet
+previsões por modelo: 77976 | modelos: 12
+                                            rel_mase  ic_inf  ic_sup  rel_sql   cob80  custo_1_1  custo_4_1  custo_9_1  dez_mase  dez_custo_4_1
+modelo                                                                                                                                         
+Combination: all models + external factors     0.790   0.768   0.813    0.758  89.720      0.791      0.811      0.825     0.943          1.057
+LightGBM + selected factors                    0.805   0.777   0.832    0.754  82.191      0.806      0.814      0.804     0.861          0.928
+Combination: all models                        0.806   0.781   0.831    0.778  89.978      0.807      0.839      0.854     0.999          1.101
+LightGBM + external factors                    0.808   0.781   0.836    0.756  82.738      0.809      0.811      0.804     0.859          0.927
+LightGBM + external factors (oracle)           0.817   0.787   0.847    0.765  81.044      0.818      0.842      0.830     0.877          0.970
+Chronos-2                                      0.836   0.812   0.859    0.785  86.075      0.837      0.839      0.838     0.950          1.064
+LightGBM global                                0.836   0.806   0.865    0.787  85.026      0.837      0.854      0.853     0.894          0.980
+Moirai 2.0 small                               0.855   0.829   0.883    0.808  87.414      0.856      0.866      0.873     1.111          1.166
+Chronos-2 + selected factors                   0.875   0.847   0.901    0.828  85.454      0.876      0.868      0.868     1.012          1.115
+TimesFM 2.5                                    0.881   0.852   0.912    0.835  88.136      0.882      0.869      0.868     1.101          1.137
+Chronos-2 + external factors                   0.885   0.856   0.913    0.831  83.354      0.886      0.879      0.870     1.028          1.125
+Seasonal naive                                 1.000   1.000   1.000    1.000  86.487      1.000      1.000      1.000     1.000          1.000
+                                      novo                  referencia      recorte metrica  razao  ic_inf  ic_sup  pct_series_melhora
+               LightGBM + external factors             LightGBM global          All    mase  0.966   0.955   0.978              70.175
+               LightGBM + external factors             LightGBM global         h1-3    mase  1.002   0.993   1.011              50.292
+               LightGBM + external factors             LightGBM global         h4-6    mase  0.974   0.963   0.985              64.912
+               LightGBM + external factors             LightGBM global        h7-12    mase  0.949   0.934   0.965              68.421
+               LightGBM + external factors             LightGBM global     December    mase  0.962   0.939   0.984              59.064
+               LightGBM + external factors             LightGBM global Targets 2026    mase  0.966   0.937   0.994              60.234
+      LightGBM + external factors (oracle)             LightGBM global          All    mase  0.978   0.966   0.989              66.082
+      LightGBM + external factors (oracle)             LightGBM global         h1-3    mase  1.010   0.999   1.023              51.462
+      LightGBM + external factors (oracle)             LightGBM global         h4-6    mase  0.978   0.967   0.989              66.667
+      LightGBM + external factors (oracle)             LightGBM global        h7-12    mase  0.965   0.953   0.979              67.251
+      LightGBM + external factors (oracle)             LightGBM global     December    mase  0.981   0.959   1.005              57.895
+      LightGBM + external factors (oracle)             LightGBM global Targets 2026    mase  1.051   1.010   1.093              47.368
+      LightGBM + external factors (oracle) LightGBM + external factors          All    mase  1.011   0.999   1.025              39.181
+      LightGBM + external factors (oracle) LightGBM + external factors         h1-3    mase  1.008   1.001   1.016              45.029
+      LightGBM + external factors (oracle) LightGBM + external factors         h4-6    mase  1.004   0.995   1.014              46.784
+      LightGBM + external factors (oracle) LightGBM + external factors        h7-12    mase  1.017   0.998   1.037              42.690
+      LightGBM + external factors (oracle) LightGBM + external factors     December    mase  1.021   0.996   1.044              43.860
+      LightGBM + external factors (oracle) LightGBM + external factors Targets 2026    mase  1.088   1.047   1.133              42.105
+               LightGBM + selected factors             LightGBM global          All    mase  0.963   0.952   0.973              73.684
+               LightGBM + selected factors             LightGBM global         h1-3    mase  0.997   0.989   1.006              54.386
+               LightGBM + selected factors             LightGBM global         h4-6    mase  0.971   0.960   0.981              69.591
+               LightGBM + selected factors             LightGBM global        h7-12    mase  0.946   0.931   0.960              75.439
+               LightGBM + selected factors             LightGBM global     December    mase  0.964   0.943   0.986              56.140
+               LightGBM + selected factors             LightGBM global Targets 2026    mase  0.989   0.964   1.017              53.216
+              Chronos-2 + external factors                   Chronos-2          All    mase  1.059   1.042   1.076              30.994
+              Chronos-2 + external factors                   Chronos-2         h1-3    mase  1.055   1.043   1.070              30.994
+              Chronos-2 + external factors                   Chronos-2         h4-6    mase  1.065   1.048   1.083              28.655
+              Chronos-2 + external factors                   Chronos-2        h7-12    mase  1.056   1.036   1.078              36.842
+              Chronos-2 + external factors                   Chronos-2     December    mase  1.083   1.046   1.116              35.088
+              Chronos-2 + external factors                   Chronos-2 Targets 2026    mase  1.045   1.003   1.091              39.181
+              Chronos-2 + selected factors                   Chronos-2          All    mase  1.046   1.031   1.063              33.918
+              Chronos-2 + selected factors                   Chronos-2         h1-3    mase  1.044   1.032   1.058              33.333
+              Chronos-2 + selected factors                   Chronos-2         h4-6    mase  1.054   1.038   1.071              32.164
+              Chronos-2 + selected factors                   Chronos-2        h7-12    mase  1.043   1.024   1.062              39.181
+              Chronos-2 + selected factors                   Chronos-2     December    mase  1.065   1.028   1.101              40.351
+              Chronos-2 + selected factors                   Chronos-2 Targets 2026    mase  1.030   0.994   1.070              43.860
+Combination: all models + external factors     Combination: all models          All    mase  0.981   0.976   0.985              72.515
+Combination: all models + external factors     Combination: all models         h1-3    mase  0.978   0.972   0.983              69.591
+Combination: all models + external factors     Combination: all models         h4-6    mase  0.975   0.969   0.981              72.515
+Combination: all models + external factors     Combination: all models        h7-12    mase  0.985   0.980   0.990              67.251
+Combination: all models + external factors     Combination: all models     December    mase  0.943   0.927   0.960              61.404
+Combination: all models + external factors     Combination: all models Targets 2026    mase  0.983   0.974   0.992              64.912
+               variante  rel_mase_naive  razao_vs_base  ic_inf  ic_sup  pct_series_melhora
+        All minus World          0.8053         0.9629  0.9520  0.9746             72.5146
+      All minus Climate          0.8058         0.9636  0.9522  0.9750             71.3450
+       All minus Policy          0.8062         0.9640  0.9525  0.9755             70.1754
+   All external factors          0.8090         0.9674  0.9558  0.9790             69.5906
+     All minus Calendar          0.8119         0.9709  0.9604  0.9818             70.7602
+      Base plus Economy          0.8141         0.9735  0.9638  0.9828             70.1754
+      All minus Economy          0.8180         0.9781  0.9661  0.9902             57.3099
+     Base plus Calendar          0.8230         0.9841  0.9804  0.9881             69.0058
+       Base plus Policy          0.8357         0.9993  0.9852  1.0127             47.9532
+Base (own history only)          0.8363         1.0000  1.0000  1.0000              0.0000
+      Base plus Climate          0.8520         1.0188  1.0125  1.0255             35.0877
+        Base plus World          0.8570         1.0248  1.0161  1.0337             40.3509
+                                                                         Own history  Series identity and season  Economy  Policy  World  Climate  Calendar
+All series                                                                      43.4                        16.5     31.3     3.3    3.3      0.0       2.2
+Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos         36.6                        25.5     29.3     2.9    3.0      0.0       2.7
+Combustíveis e lubrificantes                                                    46.2                        19.2     26.3     3.3    3.0      0.0       1.9
+Eletrodomésticos                                                                46.7                        12.0     32.9     3.0    3.4      0.0       1.9
+Equipamentos e materiais para escritório, informática e comunicação             55.1                        12.6     26.3     1.9    2.5      0.0       1.6
+Hipermercados e supermercados                                                   37.9                        14.9     35.9     4.8    3.7      0.1       2.8
+Hipermercados, supermercados, produtos alimentícios, bebidas e fumo             36.7                        14.8     36.8     4.9    3.8      0.1       2.9
+Livros, jornais, revistas e papelaria                                           51.3                        20.5     22.7     2.2    2.1      0.0       1.2
+Móveis                                                                          48.7                        18.5     26.0     2.4    2.8      0.0       1.5
+Móveis e eletrodomésticos                                                       42.4                        14.8     34.4     2.8    3.4      0.0       2.2
+Outros artigos de uso pessoal e doméstico                                       48.6                        18.4     26.2     2.1    2.7      0.0       2.0
+Tecidos, vestuário e calçados                                                   47.2                        15.6     29.1     2.8    3.4      0.0       1.9
+Varejo total                                                                    34.2                        13.9     40.0     4.5    4.2      0.1       3.0
+desocup@orig               0.0056
+confianca@orig             0.0050
+inadimpl_pf@orig           0.0050
+credito_pf@orig            0.0036
+massa_renda@orig           0.0033
+ipca_12m@orig              0.0024
+salmin_real@orig           0.0023
+cambio@orig                0.0017
+renda_comprometida@orig    0.0017
+carnaval_mes@alvo          0.0013
+transf_renda@orig          0.0013
+soja@orig                  0.0013
+petroleo@orig              0.0011
+eleicao_municipal@alvo     0.0011
+selic@orig                 0.0007
+ativ
+Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos     desocup@orig, credito_pf@orig, confianca@orig
+Combustíveis e lubrificantes                                               confianca@orig, desocup@orig, inadimpl_pf@orig
+Eletrodomésticos                                                           desocup@orig, inadimpl_pf@orig, confianca@orig
+Equipamentos e materiais para escritório, informática e comunicação        desocup@orig, inadimpl_pf@orig, confianca@orig
+Hipermercados e supermercados                                              desocup@orig, confianca@orig, inadimpl_pf@orig
+Hipermercados, supermercados, produtos alimentícios, bebidas e fumo        desocup@orig, confianca@orig, inadimpl_pf@orig
+Livros, jornais, revistas e papelaria                                      desocup@orig, inadimpl_pf@orig, confianca@orig
+Móveis                                                                     inadimpl_pf@orig, confianca@orig, desocup@orig
+Móveis e eletrodomésticos                                                  desocup@orig, inadimpl_pf@orig, confianca@orig
+Outros artigos de uso pessoal e doméstico                                  desocup@orig, inadimpl_pf@orig, confianca@orig
+Tecidos, vestuário e calçados                                              confianca@orig, inadimpl_pf@orig, desocup@orig
+Varejo total                                                               desocup@orig, confianca@orig, inadimpl_pf@orig

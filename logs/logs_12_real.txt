@@ -1,0 +1,2 @@
+real: 30/38 origens, 1856s
+Chronos-2 + external factors 77976 linhas em 4250s

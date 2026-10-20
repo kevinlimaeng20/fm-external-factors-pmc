@@ -1,0 +1,8 @@
+linhas: 538884
+treino validação: 269046 | validação: 73872
+Optuna: MASE validação 0.9135 em 165s; parâmetros {'n_estimators': 160, 'learning_rate': 0.024120857915149146, 'num_leaves': 29, 'min_child_samples': 187, 'colsample_bytree': 0.6471114739880683, 'subsample': 0.5196904347258727, 'reg_lambda': 2.54903687196815}
+reajuste 2022-07-01: treino 379854, previsões 24624, 30s
+reajuste 2023-07-01: treino 404478, previsões 24624, 31s
+reajuste 2024-07-01: treino 429102, previsões 24624, 32s
+reajuste 2025-07-01: treino 453726, previsões 4104, 35s
+LightGBM: 77976 linhas

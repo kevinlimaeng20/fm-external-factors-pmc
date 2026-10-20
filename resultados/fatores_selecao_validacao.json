@@ -1,0 +1,16 @@
+{
+ "mase_validacao": {
+  "Base": 0.913497691017021,
+  "All": 0.8983537920680635,
+  "Base plus Calendar": 0.9095916130418183,
+  "Base plus Climate": 0.9040284417157286,
+  "Base plus Economy": 0.9004283130372913,
+  "Base plus Policy": 0.9314120737315515,
+  "Base plus World": 0.9672931608667408
+ },
+ "grupos": [
+  "Calendar",
+  "Climate",
+  "Economy"
+ ]
+}

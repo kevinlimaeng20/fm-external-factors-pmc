@@ -1,0 +1,37 @@
+== validação
+tempo: 840s
+modelo
+ARIMA             73872
+ETS               73872
+Seasonal naive    73872
+Theta             73872
+dtype: int64 
+salvo em previsoes/estatisticos_valid.parquet
+Chronos-Bolt small: 73872 linhas em 33s -> previsoes/Chronos-Bolt_small_valid.parquet
+Chronos-Bolt base: 73872 linhas em 143s -> previsoes/Chronos-Bolt_base_valid.parquet
+TimesFM 2.5: 73872 linhas em 1902s -> previsoes/TimesFM_25_valid.parquet
+Moirai: 73872 linhas em 33s
+linhas: 538884
+LightGBM validação: 73872 linhas
+== pandemia imputada
+  .apply(lambda g: imputa_pandemia(g.set_index("data").valor).set_axis(g.index)))
+tempo: 1120s
+modelo
+ARIMA    77976
+ETS      77976
+dtype: int64 
+salvo em previsoes/estatisticos_imputado.parquet
+  .apply(lambda g: imputa_pandemia(g.set_index("data").valor).set_axis(g.index)))
+Chronos-Bolt base: 77976 linhas em 150s -> previsoes/Chronos-Bolt_base_imputado.parquet
+  .apply(lambda g: imputa_pandemia(g.set_index("data").valor).set_axis(g.index)))
+TimesFM 2.5: 77976 linhas em 2007s -> previsoes/TimesFM_25_imputado.parquet
+Moirai: 77976 linhas em 34s
+== contexto 60 meses
+Chronos-Bolt base: 77976 linhas em 49s -> previsoes/Chronos-Bolt_base_ctx60.parquet
+TimesFM 2.5: 77976 linhas em 2036s -> previsoes/TimesFM_25_ctx60.parquet
+Moirai: 77976 linhas em 36s
+== contexto 120 meses
+Chronos-Bolt base: 77976 linhas em 76s -> previsoes/Chronos-Bolt_base_ctx120.parquet
+TimesFM 2.5: 77976 linhas em 2020s -> previsoes/TimesFM_25_ctx120.parquet
+Moirai: 77976 linhas em 33s
+FIM_ROBUSTEZ
