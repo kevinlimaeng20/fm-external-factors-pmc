@@ -1,0 +1,12 @@
+{
+ "melhor": {
+  "n_estimators": 160,
+  "learning_rate": 0.024120857915149146,
+  "num_leaves": 29,
+  "min_child_samples": 187,
+  "colsample_bytree": 0.6471114739880683,
+  "subsample": 0.5196904347258727,
+  "reg_lambda": 2.54903687196815
+ },
+ "mase_validacao": 0.913497691017021
+}
