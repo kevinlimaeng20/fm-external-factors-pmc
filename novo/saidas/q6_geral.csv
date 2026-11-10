@@ -1,0 +1,6 @@
+modelo,MAPE_mensal,erro_mediano,dentro_5,dentro_10,cobertura80,erro_total_anual,vitorias_anos
+Combinação,8.42,5.48,46.6,72.27,71.76,6.62,12
+ETS,8.81,5.82,44.29,70.44,70.98,6.96,2
+Theta,8.93,5.91,44.04,70.41,67.01,6.87,1
+ARIMA,9.36,5.89,44.31,69.29,69.35,7.54,3
+Ingênuo sazonal,9.89,7.23,36.33,64.57,74.11,8.07,2
