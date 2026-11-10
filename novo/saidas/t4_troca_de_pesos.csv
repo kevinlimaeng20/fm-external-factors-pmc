@@ -1,0 +1,29 @@
+recorte,metodo,MAPE,razao_vs_mediana,IC_inf,IC_sup
+"2012–2026, todos os anos",Mediana,10.6531,1.0,1.0,1.0
+"2012–2026, todos os anos",Estatísticos,10.9178,1.029,1.0218,1.0363
+"2012–2026, todos os anos",IA,10.6941,1.0035,0.9978,1.0088
+"2012–2026, todos os anos",Média fixa IA+estatísticos,10.5843,0.9964,0.9926,1.0003
+"2012–2026, todos os anos",Troca aprendida (IA×estatísticos),10.5685,0.9939,0.99,0.9978
+"2012–2026, todos os anos",Mediana + troca aprendida,10.5667,0.9925,0.9906,0.9945
+"2012–2026, todos os anos",Regra do alarme (estatísticos se >50% em queda),10.6791,1.0018,0.9984,1.0054
+2012–2026 sem 2020–21,Mediana,8.6388,1.0,1.0,1.0
+2012–2026 sem 2020–21,Estatísticos,8.9616,1.0359,1.0265,1.0455
+2012–2026 sem 2020–21,IA,8.6465,1.0021,0.9952,1.0087
+2012–2026 sem 2020–21,Média fixa IA+estatísticos,8.5865,0.9979,0.9931,1.0022
+2012–2026 sem 2020–21,Troca aprendida (IA×estatísticos),8.57,0.9947,0.9901,0.9989
+2012–2026 sem 2020–21,Mediana + troca aprendida,8.5632,0.9927,0.9905,0.9949
+2012–2026 sem 2020–21,Regra do alarme (estatísticos se >50% em queda),8.6692,1.0019,0.9975,1.0065
+"Só anos de virada (2015, 2016, 2017)",Mediana,11.9118,1.0,1.0,1.0
+"Só anos de virada (2015, 2016, 2017)",Estatísticos,11.4022,0.9507,0.9369,0.9634
+"Só anos de virada (2015, 2016, 2017)",IA,12.0965,1.0085,0.9982,1.0191
+"Só anos de virada (2015, 2016, 2017)",Média fixa IA+estatísticos,11.5931,0.9706,0.9637,0.977
+"Só anos de virada (2015, 2016, 2017)",Troca aprendida (IA×estatísticos),11.558,0.9686,0.9619,0.9749
+"Só anos de virada (2015, 2016, 2017)",Mediana + troca aprendida,11.701,0.9818,0.9783,0.9851
+"Só anos de virada (2015, 2016, 2017)",Regra do alarme (estatísticos se >50% em queda),11.7575,0.9853,0.9767,0.9944
+Só anos com alarme,Mediana,10.7793,1.0,1.0,1.0
+Só anos com alarme,Estatísticos,10.898,1.0041,0.9894,1.0196
+Só anos com alarme,IA,10.9402,1.0178,1.0067,1.0284
+Só anos com alarme,Média fixa IA+estatísticos,10.6869,0.9948,0.9877,1.0021
+Só anos com alarme,Troca aprendida (IA×estatísticos),10.6644,0.9918,0.984,1.0002
+Só anos com alarme,Mediana + troca aprendida,10.6715,0.9918,0.9876,0.996
+Só anos com alarme,Regra do alarme (estatísticos se >50% em queda),10.898,1.0041,0.9894,1.0196

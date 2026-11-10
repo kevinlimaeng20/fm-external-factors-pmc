@@ -1,0 +1,6 @@
+faixa,cobertura,largura_media_pct,pontuacao_intervalo,cobertura | ruído 1 (menos ruído),cobertura | ruído 2,cobertura | ruído 3,cobertura | ruído 4 (mais ruído),cobertura | nota A,cobertura | nota B,cobertura | nota C,cobertura | nota D,cobertura | nota E
+Faixa dos modelos (mediana dos quantis),91.53,29.57,35.34,91.03,92.87,88.51,93.79,91.69,92.8,91.37,89.88,90.85
+Largura constante,83.23,21.47,37.54,98.43,94.1,73.03,66.99,98.67,92.71,81.56,67.8,48.29
+Largura por horizonte,83.81,22.11,37.47,98.65,94.59,73.64,67.97,98.59,92.86,82.25,68.85,50.54
+Proporcional à faixa dos modelos,84.15,23.19,32.65,82.45,85.81,80.25,88.19,83.64,85.24,83.66,82.99,85.66
+Proporcional à nota de confiança,83.09,22.8,32.88,86.41,84.93,77.38,83.66,82.86,82.93,80.58,83.75,89.36
