@@ -1,0 +1,28 @@
+restricao,n_filhos,soma_pesos,erro_ajuste_pct,erro_fora_amostra_pct
+total BR = UFs,27,1.0,0.021,0.117
+total = atividades | Bahia,8,0.999,0.31,1.896
+móveis+eletro | Bahia,2,0.998,0.4,2.325
+total = atividades | Brasil,8,1.0,0.088,0.494
+móveis+eletro | Brasil,2,0.996,0.311,0.708
+total = atividades | Ceará,8,0.997,0.227,1.196
+móveis+eletro | Ceará,2,0.998,0.79,3.508
+total = atividades | Distrito Federal,8,1.001,0.242,1.25
+móveis+eletro | Distrito Federal,2,1.01,1.186,4.16
+total = atividades | Espírito Santo,8,1.0,0.342,4.099
+móveis+eletro | Espírito Santo,2,0.989,2.412,1.923
+total = atividades | Goiás,8,1.005,0.473,2.035
+móveis+eletro | Goiás,2,1.0,0.448,1.054
+total = atividades | Minas Gerais,8,1.0,0.331,1.595
+móveis+eletro | Minas Gerais,2,1.007,0.374,2.036
+total = atividades | Paraná,8,1.0,0.069,0.526
+móveis+eletro | Paraná,2,0.988,0.625,1.791
+total = atividades | Pernambuco,8,1.001,0.31,2.052
+móveis+eletro | Pernambuco,2,1.003,0.243,0.589
+total = atividades | Rio Grande do Sul,8,0.999,0.174,0.754
+móveis+eletro | Rio Grande do Sul,2,0.992,0.605,10.258
+total = atividades | Rio de Janeiro,8,1.0,0.101,2.248
+móveis+eletro | Rio de Janeiro,2,0.991,0.699,1.925
+total = atividades | Santa Catarina,8,0.999,0.26,0.772
+móveis+eletro | Santa Catarina,2,0.986,0.821,4.028
+total = atividades | São Paulo,8,1.001,0.321,0.417
+móveis+eletro | São Paulo,2,1.008,0.575,4.148

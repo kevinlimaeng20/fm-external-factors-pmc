@@ -1,0 +1,20 @@
+recorte,metodo,n_series,MAPE,razao_vs_base,IC_inf,IC_sup,pct_series_melhoram
+"Todas as 171 séries, 38 origens",base,171,6.9278,1.0,1.0,1.0,0.0
+"Todas as 171 séries, 38 origens",OLS,171,6.971,1.0104,1.0039,1.0186,45.0292
+"Todas as 171 séries, 38 origens",WLS (escala²),171,6.9773,1.0094,1.0031,1.0175,44.4444
+26 últimas origens,base,171,6.3699,1.0,1.0,1.0,0.0
+26 últimas origens,OLS,171,6.4309,1.0154,1.0061,1.0271,44.4444
+26 últimas origens,WLS (escala²),171,6.436,1.0139,1.0055,1.0249,43.8596
+26 últimas origens,WLS (erro observado),171,6.439,1.0134,1.0048,1.0249,44.4444
+38 origens | Atividade Brasil,base,11,3.9109,1.0,1.0,1.0,0.0
+38 origens | Atividade Brasil,OLS,11,3.9182,1.0032,0.9995,1.0098,36.3636
+38 origens | Atividade Brasil,WLS (escala²),11,3.9265,1.0047,1.0011,1.0085,18.1818
+38 origens | Atividade UF,base,132,8.0174,1.0,1.0,1.0,0.0
+38 origens | Atividade UF,OLS,132,8.047,1.0036,0.9971,1.0114,44.697
+38 origens | Atividade UF,WLS (escala²),132,8.0599,1.0041,0.9976,1.0117,45.4545
+38 origens | Varejo total Brasil,base,1,1.5007,1.0,,,0.0
+38 origens | Varejo total Brasil,OLS,1,1.544,1.0307,,,0.0
+38 origens | Varejo total Brasil,WLS (escala²),1,1.5404,1.0283,,,0.0
+38 origens | Varejo total UF,base,27,3.031,1.0,1.0,1.0,0.0
+38 origens | Varejo total UF,OLS,27,3.1555,1.0468,1.0184,1.0807,51.8519
+38 origens | Varejo total UF,WLS (escala²),27,3.1287,1.0369,1.0135,1.0642,51.8519
