@@ -2,6 +2,9 @@ modelo,MAPE,MASE_rel_ingenuo,comparado_com,razao,IC_inf,IC_sup,pct_series_melhor
 Chronos-2,7.4199,0.836,Chronos-2,1.0,1.0,1.0,0.0
 LightGBM + fatores sel.,7.4827,0.805,Chronos-2,0.9629,0.9379,0.9866,57.8947
 Chronos-2 conjunto,7.1473,0.7851,Chronos-2,0.9391,0.9246,0.9533,76.6082
+Chronos-2 ajustado,7.5903,0.8716,Chronos-2,1.0426,1.0225,1.0654,38.0117
 Mediana (12 modelos),6.9278,0.7726,Mediana (12 modelos),1.0,1.0,1.0,0.0
 Mediana trocando Chronos-2 por Chronos-2 conjunto,6.9019,0.7665,Mediana (12 modelos),0.9922,0.9899,0.9943,68.4211
 Mediana (12) + Chronos-2 conjunto,6.9197,0.7695,Mediana (12 modelos),0.996,0.9941,0.9977,63.7427
+Mediana trocando Chronos-2 por Chronos-2 ajustado,6.9047,0.7712,Mediana (12 modelos),0.9983,0.996,1.0006,55.5556
+Mediana (12) + Chronos-2 ajustado,6.9145,0.773,Mediana (12 modelos),1.0005,0.9985,1.0027,49.1228

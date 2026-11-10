@@ -45,7 +45,7 @@ def entrada(u, ate, futuro=False):
 pipe = Chronos2Pipeline.from_pretrained("amazon/chronos-2", device_map="cpu")
 t0 = time.time()
 if modo.startswith("ft"):
-    lote = 32 if modo == "ft_uni" else 16 * (1 + len(PASS + FUT))
+    lote = 32 if modo == "ft_uni" else 4 * (1 + len(PASS + FUT))  # 4 séries por lote (limite de memória)
     pipe = pipe.fit([entrada(u, CORTE) for u in series], prediction_length=H, num_steps=PASSOS, batch_size=lote, learning_rate=5e-6,
                     output_dir=f"/tmp/claude-0/-home-claude/c5ed94fe-e163-5a1d-adc2-22270f90eded/scratchpad/c2_{modo}", logging_steps=50, report_to="none", disable_tqdm=True)
     print("ajuste fino:", f"{time.time() - t0:.0f}s", flush=True)
