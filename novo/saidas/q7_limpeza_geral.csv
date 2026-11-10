@@ -1,0 +1,5 @@
+limiar,modelo,MAPE_orig,MAPE_limpo,ganho_pct,series_que_melhoram_pct,cob80_orig,cob80_limpo
+z3_estat,ARIMA,9.36,9.93,-6.03,29.24,69.35,55.07
+z3_estat,ETS,8.81,8.86,-0.57,42.69,70.98,59.99
+z3_estat,Theta,8.93,8.91,0.17,47.95,67.01,58.4
+z3_estat,Todos,9.03,9.23,-2.21,33.33,69.11,57.82
