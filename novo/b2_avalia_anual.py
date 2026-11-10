@@ -8,7 +8,7 @@ from base import OUT, painel, meta, QCOLS
 
 p = painel(); M = meta(p)
 real = p.set_index(["unique_id", "data"]).valor
-d = pd.concat([pd.read_parquet(f) for f in sorted(glob.glob(f"{OUT}/anual_*.parquet")) if "limpo" not in f], ignore_index=True)
+d = pd.concat([pd.read_parquet(f) for f in sorted(glob.glob(f"{OUT}/anual_*.parquet")) if "limpo" not in f and "avaliado" not in f], ignore_index=True)
 d["origem"] = pd.to_datetime(d.origem); d["data_alvo"] = pd.to_datetime(d.data_alvo)
 d[QCOLS] = np.sort(d[QCOLS].values, axis=1)
 # combinação: mediana dos modelos não ingênuos disponíveis em cada série/origem
