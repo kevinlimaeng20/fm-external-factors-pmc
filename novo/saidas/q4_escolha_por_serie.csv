@@ -1,0 +1,5 @@
+,MASE_rel_ingenuo
+Escolha por série (passado recente),0.835
+Combinação (todos),0.808
+LightGBM + fatores (para todas),0.808
+Oráculo (melhor modelo a posteriori),0.714

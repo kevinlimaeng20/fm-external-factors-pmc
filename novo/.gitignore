@@ -1,0 +1,5 @@
+# arquivos grandes regeneráveis pelos scripts
+saidas/*.parquet
+saidas/outliers_detectados.csv
+saidas/log_*.txt
+__pycache__/

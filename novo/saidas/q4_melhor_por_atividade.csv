@@ -1,0 +1,13 @@
+ativ,melhor_modelo,MAPE_melhor_%,MAPE_combinacao_%,MAPE_ingenuo_%
+Varejo total,LightGBM + fatores,3.06,3.16,4.12
+"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo",LightGBM + fatores sel.,3.16,3.28,4.45
+Hipermercados e supermercados,LightGBM + fatores sel.,3.53,3.59,4.86
+"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",LightGBM + fatores,3.88,3.94,6.62
+Combustíveis e lubrificantes,Combinação (todos),5.21,5.21,7.3
+"Tecidos, vestuário e calçados",Chronos-2,6.03,6.4,6.88
+Móveis e eletrodomésticos,Combinação (todos),6.64,6.64,7.5
+Eletrodomésticos,LightGBM + fatores sel.,7.66,7.67,9.09
+Outros artigos de uso pessoal e doméstico,Combinação (top-3),8.38,8.57,10.56
+Móveis,Combinação (todos),9.48,9.48,11.31
+"Livros, jornais, revistas e papelaria",LightGBM + fatores,14.37,14.63,15.21
+"Equipamentos e materiais para escritório, informática e comunicação",Combinação (pré-treinados),17.39,17.67,22.43

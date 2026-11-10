@@ -1,0 +1,11 @@
+A,B,razao_erro_A_sobre_B,IC_inf,IC_sup,pct_series_A_melhor
+IA treinada (LightGBM + fatores),Melhor estatístico (ARIMA),0.919,0.894,0.945,65.497
+IA pré-treinada (Moirai 2.0),Melhor estatístico (ARIMA),0.972,0.945,1.0,46.199
+IA pré-treinada (Moirai 2.0),IA treinada (LightGBM + fatores),1.058,1.03,1.088,35.088
+IA pré-treinada (Chronos-2),Melhor estatístico (ARIMA),0.95,0.927,0.974,59.064
+IA pré-treinada (Chronos-2),IA treinada (LightGBM + fatores),1.034,1.01,1.061,41.52
+IA pré-treinada (Chronos-2),IA pré-treinada (Moirai 2.0),0.977,0.961,0.993,59.064
+Combinação (todos),Melhor estatístico (ARIMA),0.916,0.896,0.937,71.345
+Combinação (todos),IA treinada (LightGBM + fatores),0.997,0.974,1.022,53.216
+Combinação (todos),IA pré-treinada (Moirai 2.0),0.942,0.931,0.955,76.608
+Combinação (todos),IA pré-treinada (Chronos-2),0.964,0.952,0.976,70.175

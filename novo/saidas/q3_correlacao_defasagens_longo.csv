@@ -1,0 +1,148 @@
+variavel,defasagem_meses,correlacao_mediana,pct_series_mesmo_sinal
+Inflação 12m,0,-0.29,84.795
+Inflação 12m,1,-0.297,83.626
+Inflação 12m,2,-0.291,83.626
+Inflação 12m,3,-0.298,82.456
+Inflação 12m,6,-0.26,80.117
+Inflação 12m,9,-0.234,77.193
+Inflação 12m,12,-0.154,76.023
+Selic,0,-0.244,81.871
+Selic,1,-0.248,87.135
+Selic,2,-0.238,83.626
+Selic,3,-0.198,82.456
+Selic,6,-0.144,78.947
+Selic,9,-0.096,69.591
+Selic,12,-0.073,56.725
+Câmbio,0,-0.096,70.76
+Câmbio,1,-0.134,74.269
+Câmbio,2,-0.164,79.532
+Câmbio,3,-0.188,80.702
+Câmbio,6,-0.28,88.889
+Câmbio,9,-0.303,91.813
+Câmbio,12,-0.256,91.228
+Atividade (IBC-Br),0,0.367,97.661
+Atividade (IBC-Br),1,0.305,95.906
+Atividade (IBC-Br),2,0.309,95.906
+Atividade (IBC-Br),3,0.347,97.076
+Atividade (IBC-Br),6,0.312,95.906
+Atividade (IBC-Br),9,0.272,92.398
+Atividade (IBC-Br),12,0.256,87.135
+Crédito famílias,0,0.322,95.906
+Crédito famílias,1,0.275,93.567
+Crédito famílias,2,0.267,95.322
+Crédito famílias,3,0.301,95.322
+Crédito famílias,6,0.275,90.643
+Crédito famílias,9,0.21,84.211
+Crédito famílias,12,0.141,70.175
+Inadimplência,0,0.084,65.497
+Inadimplência,1,0.11,69.591
+Inadimplência,2,0.121,73.099
+Inadimplência,3,0.13,73.684
+Inadimplência,6,0.163,78.947
+Inadimplência,9,0.171,78.947
+Inadimplência,12,0.167,78.363
+Confiança consumidor,0,0.071,62.573
+Confiança consumidor,1,0.081,66.667
+Confiança consumidor,2,0.116,71.345
+Confiança consumidor,3,0.142,78.947
+Confiança consumidor,6,0.195,85.38
+Confiança consumidor,9,0.268,90.643
+Confiança consumidor,12,0.296,92.398
+Salário mínimo real,0,0.26,85.965
+Salário mínimo real,1,0.281,88.889
+Salário mínimo real,2,0.259,88.889
+Salário mínimo real,3,0.238,87.719
+Salário mínimo real,6,0.196,84.795
+Salário mínimo real,9,0.188,78.363
+Salário mínimo real,12,0.154,76.608
+Renda comprometida,0,-0.23,91.813
+Renda comprometida,1,-0.242,91.813
+Renda comprometida,2,-0.249,92.982
+Renda comprometida,3,-0.267,93.567
+Renda comprometida,6,-0.266,92.398
+Renda comprometida,9,-0.206,90.058
+Renda comprometida,12,-0.17,84.211
+Desemprego,0,-0.269,85.38
+Desemprego,1,-0.245,83.041
+Desemprego,2,-0.23,82.456
+Desemprego,3,-0.225,80.702
+Desemprego,6,-0.189,74.854
+Desemprego,9,-0.14,69.591
+Desemprego,12,-0.086,65.497
+Massa de renda,0,0.256,88.304
+Massa de renda,1,0.255,88.304
+Massa de renda,2,0.24,87.719
+Massa de renda,3,0.205,87.135
+Massa de renda,6,0.173,78.363
+Massa de renda,9,0.139,66.667
+Massa de renda,12,0.123,65.497
+Bolsa Família/Aux. Brasil,0,0.112,72.515
+Bolsa Família/Aux. Brasil,1,0.117,78.363
+Bolsa Família/Aux. Brasil,2,0.122,80.117
+Bolsa Família/Aux. Brasil,3,0.098,74.854
+Bolsa Família/Aux. Brasil,6,0.102,69.006
+Bolsa Família/Aux. Brasil,9,0.163,82.456
+Bolsa Família/Aux. Brasil,12,0.168,82.456
+Incerteza Brasil,0,-0.112,85.965
+Incerteza Brasil,1,-0.114,85.965
+Incerteza Brasil,2,-0.081,73.684
+Incerteza Brasil,3,-0.077,77.193
+Incerteza Brasil,6,-0.03,61.404
+Incerteza Brasil,9,-0.01,54.971
+Incerteza Brasil,12,-0.016,56.725
+Incerteza global,0,-0.138,81.287
+Incerteza global,1,-0.125,85.38
+Incerteza global,2,-0.116,83.041
+Incerteza global,3,-0.108,76.608
+Incerteza global,6,-0.013,54.971
+Incerteza global,9,-0.008,52.632
+Incerteza global,12,0.037,56.725
+Petróleo,0,0.192,88.889
+Petróleo,1,0.212,89.474
+Petróleo,2,0.218,90.643
+Petróleo,3,0.231,91.813
+Petróleo,6,0.291,94.737
+Petróleo,9,0.27,94.152
+Petróleo,12,0.243,90.643
+Soja,0,0.071,63.743
+Soja,1,0.068,67.251
+Soja,2,0.07,69.006
+Soja,3,0.064,71.93
+Soja,6,0.153,88.304
+Soja,9,0.215,94.737
+Soja,12,0.248,94.737
+Milho,0,-0.04,56.725
+Milho,1,-0.043,58.48
+Milho,2,-0.049,58.48
+Milho,3,-0.038,56.725
+Milho,6,0.037,59.649
+Milho,9,0.14,82.456
+Milho,12,0.189,86.55
+Carne,0,0.199,90.058
+Carne,1,0.199,90.058
+Carne,2,0.185,89.474
+Carne,3,0.186,87.135
+Carne,6,0.157,81.287
+Carne,9,0.074,70.175
+Carne,12,0.025,54.971
+Temperatura (anomalia),0,-0.058,60.234
+Temperatura (anomalia),1,-0.056,61.404
+Temperatura (anomalia),2,-0.072,64.327
+Temperatura (anomalia),3,-0.072,67.251
+Temperatura (anomalia),6,-0.053,67.836
+Temperatura (anomalia),9,-0.08,66.082
+Temperatura (anomalia),12,-0.065,67.836
+Temp. máxima (anomalia),0,-0.041,58.48
+Temp. máxima (anomalia),1,-0.031,61.988
+Temp. máxima (anomalia),2,-0.053,60.234
+Temp. máxima (anomalia),3,-0.057,63.158
+Temp. máxima (anomalia),6,-0.04,60.819
+Temp. máxima (anomalia),9,-0.056,64.327
+Temp. máxima (anomalia),12,-0.052,62.573
+Chuva (anomalia),0,-0.005,52.632
+Chuva (anomalia),1,-0.0,50.292
+Chuva (anomalia),2,0.0,50.292
+Chuva (anomalia),3,0.011,53.216
+Chuva (anomalia),6,0.005,54.386
+Chuva (anomalia),9,0.016,57.895
+Chuva (anomalia),12,0.031,65.497

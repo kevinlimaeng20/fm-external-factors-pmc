@@ -1,0 +1,5 @@
+quartil_ruido,MAPE_comb,erro_rel_ingenuo,ruido,n
+1 (menos ruído),3.17,0.74,2.78,43
+2,4.55,0.76,4.92,43
+3,8.87,0.86,8.72,42
+4 (mais ruído),12.0,0.93,15.23,43

@@ -1,0 +1,172 @@
+unique_id,forca_sazonal,forca_tendencia,ruido_pct,volatilidade_crescimento_pct,amplitude_sazonal_pct,anos_historico,brasil,MAPE_comb,erro_rel_ingenuo,ativ,serie
+s000,0.7558,0.9875,5.6924,11.1796,32.5086,22.5,0,2.7861,0.681,Varejo total,Acre | Varejo total
+s001,0.8815,0.9883,4.1029,8.3206,33.7827,22.5,0,2.664,0.6114,Varejo total,Alagoas | Varejo total
+s002,0.7351,0.9532,6.9405,18.4731,59.5974,22.5,0,6.4693,0.709,Varejo total,Amapá | Varejo total
+s003,0.8461,0.9711,4.8725,12.366,34.5521,22.5,0,2.5758,0.8441,Varejo total,Amazonas | Varejo total
+s004,0.7309,0.9927,3.2904,9.5581,18.3558,18.5,0,4.1971,0.567,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Bahia | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s005,0.3936,0.8898,5.4544,12.3423,23.5801,22.5,0,4.7007,0.6578,Combustíveis e lubrificantes,Bahia | Combustíveis e lubrificantes
+s006,0.409,0.5066,13.4933,28.3978,79.0701,11.5,0,6.0553,0.838,Eletrodomésticos,Bahia | Eletrodomésticos
+s007,0.291,0.9021,13.8772,25.661,42.1837,18.5,0,30.8754,0.8364,"Equipamentos e materiais para escritório, informática e comunicação","Bahia | Equipamentos e materiais para escritório, informática e comunicação"
+s008,0.8879,0.9823,2.9085,6.642,26.8406,22.5,0,4.3225,0.6531,Hipermercados e supermercados,Bahia | Hipermercados e supermercados
+s009,0.912,0.9807,2.5158,6.3326,25.6901,22.5,0,4.0055,0.6971,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Bahia | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s010,0.7188,0.903,14.8342,41.8058,57.8502,18.5,0,22.2617,0.791,"Livros, jornais, revistas e papelaria","Bahia | Livros, jornais, revistas e papelaria"
+s011,0.5612,0.5512,10.5245,24.0176,60.4691,11.5,0,6.032,0.8191,Móveis,Bahia | Móveis
+s012,0.679,0.9807,9.3191,26.7077,76.7119,22.5,0,4.9832,0.8871,Móveis e eletrodomésticos,Bahia | Móveis e eletrodomésticos
+s013,0.6911,0.969,10.3909,22.4932,72.2563,18.5,0,6.7052,0.7846,Outros artigos de uso pessoal e doméstico,Bahia | Outros artigos de uso pessoal e doméstico
+s014,0.6951,0.5935,17.1148,42.5998,105.8644,22.5,0,7.3713,1.0252,"Tecidos, vestuário e calçados","Bahia | Tecidos, vestuário e calçados"
+s015,0.8636,0.9797,3.7009,9.0973,46.0588,22.5,0,3.396,0.7279,Varejo total,Bahia | Varejo total
+s016,0.7985,0.9967,2.4017,5.8073,21.6894,19.5,1,2.6378,0.4777,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Brasil | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s017,0.4843,0.8841,3.5359,7.4156,17.341,22.5,1,2.3946,0.5631,Combustíveis e lubrificantes,Brasil | Combustíveis e lubrificantes
+s018,0.7299,0.5447,7.216,15.4058,48.5889,11.5,1,4.2484,0.7491,Eletrodomésticos,Brasil | Eletrodomésticos
+s019,0.5654,0.9775,9.203,13.3427,29.7996,19.5,1,6.1427,1.092,"Equipamentos e materiais para escritório, informática e comunicação","Brasil | Equipamentos e materiais para escritório, informática e comunicação"
+s020,0.9209,0.9926,2.0461,4.3969,26.611,22.5,1,2.1662,0.6418,Hipermercados e supermercados,Brasil | Hipermercados e supermercados
+s021,0.9267,0.9932,1.9332,4.0623,25.9408,22.5,1,2.1072,0.6791,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Brasil | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s022,0.8325,0.938,9.7337,25.4247,84.0686,19.5,1,7.3438,1.0699,"Livros, jornais, revistas e papelaria","Brasil | Livros, jornais, revistas e papelaria"
+s023,0.6839,0.7194,7.7245,15.9852,46.3432,11.5,1,5.2355,0.8998,Móveis,Brasil | Móveis
+s024,0.8301,0.9835,5.8368,15.1169,47.9943,22.5,1,3.2921,0.8429,Móveis e eletrodomésticos,Brasil | Móveis e eletrodomésticos
+s025,0.8618,0.9781,6.3405,14.6746,51.0058,19.5,1,5.9423,0.8549,Outros artigos de uso pessoal e doméstico,Brasil | Outros artigos de uso pessoal e doméstico
+s026,0.7339,0.5105,13.729,31.1037,151.1744,22.5,1,4.2768,0.9609,"Tecidos, vestuário e calçados","Brasil | Tecidos, vestuário e calçados"
+s027,0.9473,0.9938,2.1813,5.6158,35.3299,22.5,1,1.751,0.729,Varejo total,Brasil | Varejo total
+s028,0.6136,0.9922,3.5766,7.2142,22.332,18.5,0,5.6711,0.6026,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Ceará | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s029,0.4164,0.9139,6.6283,15.8017,45.3776,22.5,0,5.4922,0.6945,Combustíveis e lubrificantes,Ceará | Combustíveis e lubrificantes
+s030,0.2624,0.3891,19.5731,37.2266,68.2158,11.5,0,6.5441,1.0923,Eletrodomésticos,Ceará | Eletrodomésticos
+s031,0.1754,0.9732,11.3838,21.0044,59.4259,18.5,0,16.3451,0.7944,"Equipamentos e materiais para escritório, informática e comunicação","Ceará | Equipamentos e materiais para escritório, informática e comunicação"
+s032,0.8387,0.989,2.8876,5.3963,25.0004,22.5,0,4.2828,0.7179,Hipermercados e supermercados,Ceará | Hipermercados e supermercados
+s033,0.8521,0.9907,2.6723,5.0586,21.9377,22.5,0,3.9098,0.7,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Ceará | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s034,0.7247,0.6874,28.7142,61.1703,231.1828,18.5,0,25.7663,0.988,"Livros, jornais, revistas e papelaria","Ceará | Livros, jornais, revistas e papelaria"
+s035,0.2123,0.4718,23.3647,39.4876,65.5185,11.5,0,6.911,1.0078,Móveis,Ceará | Móveis
+s036,0.4068,0.9401,14.991,35.3827,101.2239,22.5,0,5.1481,1.1109,Móveis e eletrodomésticos,Ceará | Móveis e eletrodomésticos
+s037,0.6743,0.8761,10.7039,20.1619,120.9886,18.5,0,7.5821,0.807,Outros artigos de uso pessoal e doméstico,Ceará | Outros artigos de uso pessoal e doméstico
+s038,0.5675,0.4376,24.8873,57.4049,116.2346,22.5,0,7.3841,1.3735,"Tecidos, vestuário e calçados","Ceará | Tecidos, vestuário e calçados"
+s039,0.8585,0.9856,4.1659,8.9367,51.7323,22.5,0,3.5151,0.6264,Varejo total,Ceará | Varejo total
+s040,0.5966,0.9605,5.9925,8.8212,20.5054,18.5,0,3.7439,0.6463,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Distrito Federal | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s041,0.2968,0.8694,6.301,15.5572,27.5902,22.5,0,5.3638,0.728,Combustíveis e lubrificantes,Distrito Federal | Combustíveis e lubrificantes
+s042,0.3304,0.6737,12.2696,29.4722,38.2714,11.5,0,14.0133,0.9976,Eletrodomésticos,Distrito Federal | Eletrodomésticos
+s043,0.7076,0.8318,20.8035,44.5479,79.985,18.5,0,32.5774,0.8098,"Equipamentos e materiais para escritório, informática e comunicação","Distrito Federal | Equipamentos e materiais para escritório, informática e comunicação"
+s044,0.7114,0.9715,4.1524,9.264,22.2667,22.5,0,3.1506,0.6563,Hipermercados e supermercados,Distrito Federal | Hipermercados e supermercados
+s045,0.7362,0.969,3.7912,8.2803,20.5632,22.5,0,2.9891,0.6752,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Distrito Federal | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s046,0.8101,0.9521,13.4283,30.2504,92.3485,18.5,0,11.2232,0.9103,"Livros, jornais, revistas e papelaria","Distrito Federal | Livros, jornais, revistas e papelaria"
+s047,0.3717,0.5941,12.2694,27.2018,100.1973,11.5,0,17.3836,0.7702,Móveis,Distrito Federal | Móveis
+s048,0.5976,0.9556,8.8257,26.2375,49.3024,22.5,0,11.2482,1.0059,Móveis e eletrodomésticos,Distrito Federal | Móveis e eletrodomésticos
+s049,0.7603,0.857,10.7074,21.3859,132.9878,18.5,0,9.7609,0.7241,Outros artigos de uso pessoal e doméstico,Distrito Federal | Outros artigos de uso pessoal e doméstico
+s050,0.5168,0.3246,22.7984,54.1674,93.2364,22.5,0,5.5914,0.9113,"Tecidos, vestuário e calçados","Distrito Federal | Tecidos, vestuário e calçados"
+s051,0.8568,0.9652,3.3909,7.2468,30.8825,22.5,0,2.905,0.7109,Varejo total,Distrito Federal | Varejo total
+s052,0.6525,0.9958,3.6847,7.3352,18.3689,18.5,0,5.022,0.5162,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Espírito Santo | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s053,0.321,0.8707,6.091,15.0719,28.1015,22.5,0,3.6865,0.7643,Combustíveis e lubrificantes,Espírito Santo | Combustíveis e lubrificantes
+s054,0.6299,0.7481,8.8036,19.8018,42.1383,11.5,0,8.209,0.9531,Eletrodomésticos,Espírito Santo | Eletrodomésticos
+s055,0.2128,0.8987,17.4416,35.5417,57.9998,18.5,0,12.9989,1.0784,"Equipamentos e materiais para escritório, informática e comunicação","Espírito Santo | Equipamentos e materiais para escritório, informática e comunicação"
+s056,0.7394,0.9775,4.0402,8.6079,26.8398,22.5,0,3.699,0.8713,Hipermercados e supermercados,Espírito Santo | Hipermercados e supermercados
+s057,0.7644,0.9795,3.7734,8.2639,27.3826,22.5,0,3.4439,0.7437,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Espírito Santo | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s058,0.854,0.9333,11.2569,27.0811,150.2022,18.5,0,25.8071,1.128,"Livros, jornais, revistas e papelaria","Espírito Santo | Livros, jornais, revistas e papelaria"
+s059,0.5768,0.6555,12.1269,31.2076,46.3075,11.5,0,6.4379,0.8843,Móveis,Espírito Santo | Móveis
+s060,0.7285,0.9757,8.0849,21.1896,39.885,22.5,0,7.4165,1.0147,Móveis e eletrodomésticos,Espírito Santo | Móveis e eletrodomésticos
+s061,0.7863,0.8607,9.6932,24.2421,74.8691,18.5,0,14.6038,0.7257,Outros artigos de uso pessoal e doméstico,Espírito Santo | Outros artigos de uso pessoal e doméstico
+s062,0.6748,0.6665,14.7283,36.8128,74.9258,22.5,0,8.5822,1.1063,"Tecidos, vestuário e calçados","Espírito Santo | Tecidos, vestuário e calçados"
+s063,0.8583,0.9835,3.5156,9.33,29.4902,22.5,0,3.6113,1.0065,Varejo total,Espírito Santo | Varejo total
+s064,0.5233,0.9921,4.9917,10.813,25.4049,18.5,0,3.6734,0.4316,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Goiás | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s065,0.3532,0.9374,5.1441,10.2743,21.8633,22.5,0,8.0241,0.79,Combustíveis e lubrificantes,Goiás | Combustíveis e lubrificantes
+s066,0.5608,0.6366,9.0263,20.5208,51.8003,11.5,0,8.0662,1.0223,Eletrodomésticos,Goiás | Eletrodomésticos
+s067,0.2091,0.6802,17.9163,29.5691,46.9899,18.5,0,16.2584,0.7301,"Equipamentos e materiais para escritório, informática e comunicação","Goiás | Equipamentos e materiais para escritório, informática e comunicação"
+s068,0.8196,0.9775,3.238,7.8065,22.5213,22.5,0,4.4237,0.8411,Hipermercados e supermercados,Goiás | Hipermercados e supermercados
+s069,0.773,0.9671,3.717,7.4199,20.7388,22.5,0,4.1333,0.8619,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Goiás | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s070,0.6887,0.9305,13.9121,35.9024,64.5894,18.5,0,13.1677,0.9021,"Livros, jornais, revistas e papelaria","Goiás | Livros, jornais, revistas e papelaria"
+s071,0.5844,0.6726,10.0488,19.1072,79.9228,11.5,0,8.642,0.8425,Móveis,Goiás | Móveis
+s072,0.762,0.9766,6.889,18.1251,61.0589,22.5,0,7.3716,0.9239,Móveis e eletrodomésticos,Goiás | Móveis e eletrodomésticos
+s073,0.7239,0.9526,11.1239,19.8639,105.8481,18.5,0,6.2095,0.856,Outros artigos de uso pessoal e doméstico,Goiás | Outros artigos de uso pessoal e doméstico
+s074,0.5876,0.538,17.6364,41.766,152.611,22.5,0,5.2646,1.1475,"Tecidos, vestuário e calçados","Goiás | Tecidos, vestuário e calçados"
+s075,0.8662,0.9824,3.3713,7.3736,37.9201,22.5,0,2.7297,1.0347,Varejo total,Goiás | Varejo total
+s076,0.8817,0.9937,3.7983,8.9427,32.4798,22.5,0,3.508,0.6518,Varejo total,Maranhão | Varejo total
+s077,0.9157,0.9956,2.5248,5.986,29.4095,22.5,0,2.3491,0.7583,Varejo total,Mato Grosso do Sul | Varejo total
+s078,0.8607,0.9861,3.169,7.5747,27.9533,22.5,0,2.9608,0.7867,Varejo total,Mato Grosso | Varejo total
+s079,0.8201,0.9973,2.2016,7.7076,18.7931,18.5,0,4.8068,0.6111,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Minas Gerais | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s080,0.5655,0.9594,4.2474,12.1978,17.1023,22.5,0,7.5008,0.6891,Combustíveis e lubrificantes,Minas Gerais | Combustíveis e lubrificantes
+s081,0.6568,0.8568,8.5919,19.3811,49.3792,11.5,0,5.9945,0.8531,Eletrodomésticos,Minas Gerais | Eletrodomésticos
+s082,0.3041,0.9465,9.8262,17.9176,33.4076,18.5,0,32.393,0.8341,"Equipamentos e materiais para escritório, informática e comunicação","Minas Gerais | Equipamentos e materiais para escritório, informática e comunicação"
+s083,0.8944,0.9936,2.3918,6.1253,22.9383,22.5,0,2.9255,0.7064,Hipermercados e supermercados,Minas Gerais | Hipermercados e supermercados
+s084,0.9023,0.9936,2.2711,5.6237,23.6092,22.5,0,2.6853,0.7089,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Minas Gerais | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s085,0.8115,0.8467,10.629,27.8795,52.7074,18.5,0,8.8085,0.9052,"Livros, jornais, revistas e papelaria","Minas Gerais | Livros, jornais, revistas e papelaria"
+s086,0.5991,0.8385,9.1601,20.0566,42.4549,11.5,0,10.9683,0.8643,Móveis,Minas Gerais | Móveis
+s087,0.7896,0.9861,6.9531,17.6343,43.2954,22.5,0,5.5905,0.9685,Móveis e eletrodomésticos,Minas Gerais | Móveis e eletrodomésticos
+s088,0.7439,0.9382,10.7554,23.4997,78.2826,18.5,0,8.1165,0.7775,Outros artigos de uso pessoal e doméstico,Minas Gerais | Outros artigos de uso pessoal e doméstico
+s089,0.8343,0.7397,9.2873,22.5551,139.3392,22.5,0,7.1738,0.9374,"Tecidos, vestuário e calçados","Minas Gerais | Tecidos, vestuário e calçados"
+s090,0.9244,0.9936,2.4037,5.3524,29.7877,22.5,0,1.8305,0.7238,Varejo total,Minas Gerais | Varejo total
+s091,0.8629,0.9978,2.4734,6.9208,18.3123,18.5,0,5.0651,0.8644,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Paraná | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s092,0.4107,0.7722,5.3802,11.1866,11.2797,22.5,0,5.4512,0.6799,Combustíveis e lubrificantes,Paraná | Combustíveis e lubrificantes
+s093,0.73,0.6012,7.1384,15.8948,49.3433,11.5,0,9.2116,0.8,Eletrodomésticos,Paraná | Eletrodomésticos
+s094,0.6273,0.9637,14.8847,24.9912,125.706,18.5,0,13.9387,0.7308,"Equipamentos e materiais para escritório, informática e comunicação","Paraná | Equipamentos e materiais para escritório, informática e comunicação"
+s095,0.8571,0.9764,3.1151,4.9748,29.5741,22.5,0,3.3566,0.7565,Hipermercados e supermercados,Paraná | Hipermercados e supermercados
+s096,0.8606,0.9799,3.0199,4.9296,29.4146,22.5,0,3.157,0.754,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Paraná | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s097,0.8055,0.9117,11.3926,25.2708,78.1219,18.5,0,15.1023,0.9433,"Livros, jornais, revistas e papelaria","Paraná | Livros, jornais, revistas e papelaria"
+s098,0.7053,0.8787,7.74,18.999,41.9552,11.5,0,8.6396,0.8864,Móveis,Paraná | Móveis
+s099,0.8505,0.9797,5.3999,15.2164,46.2172,22.5,0,7.389,0.7611,Móveis e eletrodomésticos,Paraná | Móveis e eletrodomésticos
+s100,0.7572,0.9552,9.7093,21.4834,99.6185,18.5,0,9.0597,0.8615,Outros artigos de uso pessoal e doméstico,Paraná | Outros artigos de uso pessoal e doméstico
+s101,0.7801,0.6349,10.9122,27.3768,87.2495,22.5,0,5.2375,0.8593,"Tecidos, vestuário e calçados","Paraná | Tecidos, vestuário e calçados"
+s102,0.9254,0.991,2.4064,5.0968,31.2431,22.5,0,2.0467,0.7556,Varejo total,Paraná | Varejo total
+s103,0.8784,0.989,3.9251,8.1824,33.7831,22.5,0,6.0332,0.6494,Varejo total,Paraíba | Varejo total
+s104,0.9144,0.9826,3.9652,10.8621,45.2371,22.5,0,2.731,1.1155,Varejo total,Pará | Varejo total
+s105,0.6604,0.9923,4.4694,13.5003,23.2381,18.5,0,4.6455,1.1173,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Pernambuco | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s106,0.4194,0.9414,5.0011,9.3582,28.7165,22.5,0,4.345,0.6186,Combustíveis e lubrificantes,Pernambuco | Combustíveis e lubrificantes
+s107,0.5081,0.7355,9.6455,27.4677,39.4833,11.5,0,6.8309,0.7226,Eletrodomésticos,Pernambuco | Eletrodomésticos
+s108,0.2814,0.8459,15.6671,35.7428,92.5952,18.5,0,16.5745,0.684,"Equipamentos e materiais para escritório, informática e comunicação","Pernambuco | Equipamentos e materiais para escritório, informática e comunicação"
+s109,0.869,0.9766,2.9509,7.399,24.8394,22.5,0,5.4861,0.8833,Hipermercados e supermercados,Pernambuco | Hipermercados e supermercados
+s110,0.8812,0.9803,2.7347,6.2586,27.0264,22.5,0,4.3743,0.8646,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Pernambuco | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s111,0.7061,0.8149,23.2744,55.1879,159.7816,18.5,0,15.0263,1.1793,"Livros, jornais, revistas e papelaria","Pernambuco | Livros, jornais, revistas e papelaria"
+s112,0.5299,0.8708,11.2006,24.3376,25.4621,11.5,0,9.3934,1.0793,Móveis,Pernambuco | Móveis
+s113,0.7604,0.9851,7.145,23.7563,40.8707,22.5,0,5.6058,0.6829,Móveis e eletrodomésticos,Pernambuco | Móveis e eletrodomésticos
+s114,0.7304,0.9609,9.2684,21.3561,55.2576,18.5,0,7.5822,0.8907,Outros artigos de uso pessoal e doméstico,Pernambuco | Outros artigos de uso pessoal e doméstico
+s115,0.8117,0.5803,13.7494,32.4195,148.9422,22.5,0,6.7505,0.9197,"Tecidos, vestuário e calçados","Pernambuco | Tecidos, vestuário e calçados"
+s116,0.9073,0.9855,3.4051,8.5792,36.0519,22.5,0,3.4223,1.0229,Varejo total,Pernambuco | Varejo total
+s117,0.819,0.9762,4.6482,10.8854,37.1132,22.5,0,3.5286,0.9115,Varejo total,Piauí | Varejo total
+s118,0.879,0.9907,3.3408,7.0128,30.2771,22.5,0,3.0609,0.7742,Varejo total,Rio Grande do Norte | Varejo total
+s119,0.8338,0.9951,2.4863,6.7445,20.5673,18.5,0,2.7166,0.4825,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Rio Grande do Sul | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s120,0.6106,0.686,5.908,14.8709,59.2537,22.5,0,4.9278,0.6654,Combustíveis e lubrificantes,Rio Grande do Sul | Combustíveis e lubrificantes
+s121,0.81,0.5638,7.0001,15.3191,74.406,11.5,0,7.4783,0.7621,Eletrodomésticos,Rio Grande do Sul | Eletrodomésticos
+s122,0.5712,0.9616,7.9852,23.5968,52.9216,18.5,0,10.9915,0.7495,"Equipamentos e materiais para escritório, informática e comunicação","Rio Grande do Sul | Equipamentos e materiais para escritório, informática e comunicação"
+s123,0.8544,0.9588,3.1056,6.72,28.2645,22.5,0,4.1111,0.6659,Hipermercados e supermercados,Rio Grande do Sul | Hipermercados e supermercados
+s124,0.8634,0.9604,2.9717,6.4602,27.8541,22.5,0,3.9401,0.6538,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Rio Grande do Sul | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s125,0.6826,0.9096,13.6075,34.809,91.2011,18.5,0,15.2784,0.9504,"Livros, jornais, revistas e papelaria","Rio Grande do Sul | Livros, jornais, revistas e papelaria"
+s126,0.7874,0.218,7.4761,14.2126,63.3946,11.5,0,8.8693,0.905,Móveis,Rio Grande do Sul | Móveis
+s127,0.8775,0.9758,5.6471,13.3996,81.1291,22.5,0,6.5524,0.9327,Móveis e eletrodomésticos,Rio Grande do Sul | Móveis e eletrodomésticos
+s128,0.7542,0.8965,10.4035,22.7136,103.2252,18.5,0,6.8655,0.9708,Outros artigos de uso pessoal e doméstico,Rio Grande do Sul | Outros artigos de uso pessoal e doméstico
+s129,0.7723,0.535,13.5582,32.9033,101.8567,22.5,0,6.6139,0.7604,"Tecidos, vestuário e calçados","Rio Grande do Sul | Tecidos, vestuário e calçados"
+s130,0.931,0.9851,2.575,7.1831,35.5508,22.5,0,2.7525,0.6215,Varejo total,Rio Grande do Sul | Varejo total
+s131,0.7098,0.9872,2.9083,5.3764,21.7055,18.5,0,2.4726,0.7458,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Rio de Janeiro | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s132,0.3552,0.9285,5.449,13.7953,14.1395,22.5,0,6.8485,0.7092,Combustíveis e lubrificantes,Rio de Janeiro | Combustíveis e lubrificantes
+s133,0.7719,0.8493,7.6573,21.6305,45.9167,11.5,0,10.6168,0.844,Eletrodomésticos,Rio de Janeiro | Eletrodomésticos
+s134,0.3941,0.9119,19.5771,35.043,46.106,18.5,0,14.6949,0.7965,"Equipamentos e materiais para escritório, informática e comunicação","Rio de Janeiro | Equipamentos e materiais para escritório, informática e comunicação"
+s135,0.884,0.9495,2.7249,4.9414,27.8599,22.5,0,2.9037,0.7323,Hipermercados e supermercados,Rio de Janeiro | Hipermercados e supermercados
+s136,0.8736,0.9611,2.7631,4.9365,26.7456,22.5,0,2.2996,0.8466,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Rio de Janeiro | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s137,0.7937,0.8596,13.5106,31.6385,97.0776,18.5,0,10.037,1.0239,"Livros, jornais, revistas e papelaria","Rio de Janeiro | Livros, jornais, revistas e papelaria"
+s138,0.6403,0.8221,10.0077,21.2923,66.39,11.5,0,12.7893,0.6818,Móveis,Rio de Janeiro | Móveis
+s139,0.8331,0.9691,6.7774,20.347,46.4078,22.5,0,9.7137,0.861,Móveis e eletrodomésticos,Rio de Janeiro | Móveis e eletrodomésticos
+s140,0.8424,0.9611,7.1365,15.3501,54.3809,18.5,0,15.728,0.8561,Outros artigos de uso pessoal e doméstico,Rio de Janeiro | Outros artigos de uso pessoal e doméstico
+s141,0.6611,0.3841,17.7585,44.1482,91.4492,22.5,0,9.0043,0.8834,"Tecidos, vestuário e calçados","Rio de Janeiro | Tecidos, vestuário e calçados"
+s142,0.9196,0.98,3.0393,5.9145,35.3678,22.5,0,2.3398,1.1683,Varejo total,Rio de Janeiro | Varejo total
+s143,0.7926,0.9828,6.3215,13.9869,53.2149,22.5,0,3.375,1.0577,Varejo total,Rondônia | Varejo total
+s144,0.7423,0.9913,4.5837,8.5328,31.8895,22.5,0,4.045,0.8184,Varejo total,Roraima | Varejo total
+s145,0.7132,0.996,3.4496,6.2136,20.9928,18.5,0,2.3292,0.4017,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","Santa Catarina | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s146,0.4879,0.9568,4.0498,8.928,19.4695,22.5,0,4.5603,0.8186,Combustíveis e lubrificantes,Santa Catarina | Combustíveis e lubrificantes
+s147,0.7683,0.6594,8.5277,16.1474,49.6876,11.5,0,6.9105,0.7765,Eletrodomésticos,Santa Catarina | Eletrodomésticos
+s148,0.64,0.9786,12.272,30.623,54.4947,18.5,0,13.1411,0.8442,"Equipamentos e materiais para escritório, informática e comunicação","Santa Catarina | Equipamentos e materiais para escritório, informática e comunicação"
+s149,0.9052,0.9911,2.8457,11.363,31.0413,22.5,0,3.3309,0.6434,Hipermercados e supermercados,Santa Catarina | Hipermercados e supermercados
+s150,0.911,0.992,2.6975,11.0589,30.5989,22.5,0,3.1007,0.628,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","Santa Catarina | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s151,0.8816,0.8215,10.7017,26.3717,68.2359,18.5,0,9.2066,1.0316,"Livros, jornais, revistas e papelaria","Santa Catarina | Livros, jornais, revistas e papelaria"
+s152,0.7389,0.4986,8.6068,17.0061,41.1125,11.5,0,7.7344,0.8575,Móveis,Santa Catarina | Móveis
+s153,0.8581,0.9657,6.3875,13.6761,40.3026,22.5,0,7.2322,0.8655,Móveis e eletrodomésticos,Santa Catarina | Móveis e eletrodomésticos
+s154,0.7465,0.9519,9.8751,17.514,62.5205,18.5,0,6.8054,0.8178,Outros artigos de uso pessoal e doméstico,Santa Catarina | Outros artigos de uso pessoal e doméstico
+s155,0.9,0.9276,6.6149,14.3932,79.3572,22.5,0,4.9437,0.8118,"Tecidos, vestuário e calçados","Santa Catarina | Tecidos, vestuário e calçados"
+s156,0.9307,0.9937,2.5272,7.4638,35.0724,22.5,0,2.0355,0.5028,Varejo total,Santa Catarina | Varejo total
+s157,0.8473,0.9811,3.9302,7.3739,31.182,22.5,0,2.8375,0.8634,Varejo total,Sergipe | Varejo total
+s158,0.7043,0.9942,3.1227,7.4071,28.2616,18.5,0,4.2687,0.6859,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos","São Paulo | Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos"
+s159,0.4463,0.7358,5.1913,12.1144,31.4417,22.5,0,4.4929,0.7883,Combustíveis e lubrificantes,São Paulo | Combustíveis e lubrificantes
+s160,0.6244,0.3102,9.4635,16.8766,83.4476,11.5,0,5.575,0.716,Eletrodomésticos,São Paulo | Eletrodomésticos
+s161,0.7504,0.9665,10.2195,17.4072,36.6637,18.5,0,12.724,0.7675,"Equipamentos e materiais para escritório, informática e comunicação","São Paulo | Equipamentos e materiais para escritório, informática e comunicação"
+s162,0.8749,0.9922,2.6031,5.061,27.1034,22.5,0,2.5528,0.8084,Hipermercados e supermercados,São Paulo | Hipermercados e supermercados
+s163,0.8873,0.9928,2.4128,4.591,26.2464,22.5,0,2.452,0.7855,"Hipermercados, supermercados, produtos alimentícios, bebidas e fumo","São Paulo | Hipermercados, supermercados, produtos alimentícios, bebidas e fumo"
+s164,0.7213,0.944,11.9256,30.0297,110.6768,18.5,0,11.1344,1.1564,"Livros, jornais, revistas e papelaria","São Paulo | Livros, jornais, revistas e papelaria"
+s165,0.5135,0.6983,10.3839,21.4019,32.0919,11.5,0,14.25,0.8134,Móveis,São Paulo | Móveis
+s166,0.7227,0.9701,7.3097,16.2976,70.2186,22.5,0,4.7268,0.8329,Móveis e eletrodomésticos,São Paulo | Móveis e eletrodomésticos
+s167,0.8741,0.9773,5.6274,15.7109,45.8534,18.5,0,6.4765,1.0511,Outros artigos de uso pessoal e doméstico,São Paulo | Outros artigos de uso pessoal e doméstico
+s168,0.7107,0.5354,15.2685,36.9076,175.4641,22.5,0,4.9624,0.9138,"Tecidos, vestuário e calçados","São Paulo | Tecidos, vestuário e calçados"
+s169,0.9392,0.9938,2.345,5.3741,34.6642,22.5,0,2.0454,1.0334,Varejo total,São Paulo | Varejo total
+s170,0.742,0.992,5.4216,8.371,34.0856,22.5,0,5.0635,0.7125,Varejo total,Tocantins | Varejo total
