@@ -1,0 +1,22 @@
+indicador,razao_media,series_que_melhoram,melhor_caso,onde_mais_ajuda
+diesel,0.951,7,0.839,"Artigos farmacêuticos, médicos, "
+concessoes_pf,0.954,8,0.848,Equipamentos e materiais para es
+credito_pf (já no estudo),0.957,8,0.847,Móveis e eletrodomésticos
+ibcbr (já no estudo),0.97,6,0.809,Eletrodomésticos
+papelao,0.971,9,0.913,Móveis e eletrodomésticos
+licenciamentos,0.979,6,0.903,Eletrodomésticos
+emplacamentos,0.981,6,0.871,Eletrodomésticos
+conf_construcao,0.987,8,0.929,Móveis e eletrodomésticos
+cambio (já no estudo),0.996,4,0.951,Varejo total
+papel_moeda,0.996,2,0.96,Eletrodomésticos
+gasolina,0.998,3,0.92,Eletrodomésticos
+intencao_consumo,0.999,5,0.915,Equipamentos e materiais para es
+confianca (já no estudo),1.0,3,0.973,Varejo total
+expect_consumidor,1.001,0,0.994,Varejo total
+energia_comercio,1.001,1,0.984,Móveis
+expect_inflacao,1.003,2,0.984,"Artigos farmacêuticos, médicos, "
+selic (já no estudo),1.004,0,0.993,Hipermercados e supermercados
+endividadas,1.01,4,0.956,Equipamentos e materiais para es
+ocupados_comercio,1.012,3,0.939,"Livros, jornais, revistas e pape"
+energia_resid,1.013,1,0.982,"Artigos farmacêuticos, médicos, "
+conf_comercio,1.03,2,0.961,Equipamentos e materiais para es

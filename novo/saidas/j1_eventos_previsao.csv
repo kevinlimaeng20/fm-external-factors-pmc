@@ -1,0 +1,4 @@
+recorte,n,MAPE_atual,MAPE_com_eventos,razao,IC_inf,IC_sup,pct_series_melhoram
+Todos os meses-alvo,77976,7.4836,7.4843,1.0034,1.0005,1.0063,45.0292
+Meses-alvo com evento antecipado,58482,7.5716,7.5779,1.0044,1.001,1.0074,43.8596
+Meses-alvo sem evento,19494,7.2194,7.2035,0.9994,0.995,1.004,52.0468

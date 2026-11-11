@@ -1,0 +1,29 @@
+tipo,evento,antecipado,meses,series_mes,pct_outlier,pct_extremo,desvio_mediano_pct,vezes_o_normal
+pandemia,Covid-19: fechamentos,0,7,1197,53.55,44.53,-4.59,6.34
+desastre,Enchentes no Rio Grande do Sul,0,2,24,41.67,33.33,1.03,4.93
+saque_fgts,FGTS saque emergencial (≈R$ 38 bi),1,6,1026,36.06,24.37,1.41,4.27
+saque_fgts,FGTS saque imediato (≈R$ 28 bi),1,7,1197,19.8,12.61,0.07,2.34
+decimo_inss_antecipado,13º do INSS antecipado,1,14,2394,18.96,13.7,-0.16,2.25
+combustiveis_imposto,Teto do ICMS e desoneração de combustíveis,0,6,1026,15.2,8.19,-0.08,1.8
+copa,Copa do Mundo 2022,1,2,342,14.04,7.02,-0.18,1.66
+saque_fgts,FGTS contas inativas (R$ 44 bi),1,5,855,11.46,5.73,0.49,1.36
+crise_financeira,Crise financeira global,0,6,870,10.0,3.45,-0.85,1.18
+copa,Copa do Mundo 2018,1,2,342,9.65,4.39,-0.45,1.14
+renegociacao_dividas,Desenrola Brasil,1,11,1881,9.36,2.76,-0.04,1.11
+saque_fgts,FGTS saque extraordinário (≈R$ 24 bi sacados),1,3,513,9.16,5.65,0.46,1.08
+copa,Copa do Mundo 2006,1,2,290,8.97,3.1,-1.2,1.06
+racionamento,Racionamento de energia,1,9,837,8.72,4.42,-0.27,1.03
+copa,Copa do Mundo 2002,1,1,93,8.6,3.23,-0.55,1.02
+greve,Greve dos caminhoneiros,0,2,342,8.19,4.09,0.25,0.97
+estimulo_duraveis,IPI reduzido autos e linha branca,1,16,2320,6.94,2.24,-0.33,0.82
+saque_fgts,FGTS saldo retido do saque-aniversário (≈R$ 12 bi),1,4,684,6.43,2.78,-0.5,0.76
+estimulo_duraveis,"IPI reduzido linha branca, móveis e autos",1,25,4275,6.13,1.99,0.29,0.73
+imposto_importados,Imposto sobre compras internacionais até US$ 50,1,12,2052,5.95,2.14,0.09,0.7
+estimulo_duraveis,Minha Casa Melhor (crédito para móveis e eletro),1,19,3249,4.99,1.11,0.63,0.59
+protestos,Manifestações de junho,0,1,171,4.09,1.17,-0.21,0.48
+copa,Copa do Mundo 2010,1,2,290,2.07,0.0,0.34,0.24
+alivio_ir,Isenção de IR até R$ 5 mil,1,12,1368,1.83,1.68,-0.02,0.22
+copa,Copa do Mundo 2014 (no Brasil),1,2,342,1.75,0.58,-0.84,0.21
+copa,Copa do Mundo 2026,1,2,342,1.46,1.17,0.17,0.17
+olimpiada,Olimpíada do Rio,1,1,12,0.0,0.0,-1.66,0.0
+desastre,Apagão no Amapá,0,1,1,0.0,0.0,0.58,0.0

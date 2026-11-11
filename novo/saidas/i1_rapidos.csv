@@ -1,0 +1,25 @@
+recorte,variante,MAPE,razao_vs_atual,IC_inf,IC_sup,pct_series_melhoram
+Todos os horizontes,Só histórico,7.6883,1.0383,1.0269,1.0497,26.9006
+Todos os horizontes,V0: histórico + fatores (atual),7.4836,1.0,1.0,1.0,0.0
+Todos os horizontes,V1: + indicadores rápidos,7.5681,1.0318,1.0224,1.041,29.2398
+Todos os horizontes,V2: + mês o+1 (adiantados),7.5131,1.0194,1.0118,1.0272,36.2573
+Todos os horizontes,V3: + mês o+1 de veículos,7.5315,1.0246,1.016,1.0336,35.0877
+Todos os horizontes,"V2 sem os novos: fatores + mês o+1 de câmbio, Selic, confiança",7.47,0.9991,0.9966,1.0015,54.9708
+h = 1,Só histórico,6.3643,0.9858,0.976,0.9955,57.3099
+h = 1,V0: histórico + fatores (atual),6.4861,1.0,1.0,1.0,0.0
+h = 1,V1: + indicadores rápidos,6.4559,1.0068,0.999,1.0141,45.614
+h = 1,V2: + mês o+1 (adiantados),6.4428,0.9998,0.9935,1.0062,54.9708
+h = 1,V3: + mês o+1 de veículos,6.4249,0.9987,0.991,1.0057,46.7836
+h = 1,"V2 sem os novos: fatores + mês o+1 de câmbio, Selic, confiança",6.4832,0.9998,0.9969,1.0026,52.6316
+h = 2–3,Só histórico,6.9427,1.0097,1.0003,1.019,40.9357
+h = 2–3,V0: histórico + fatores (atual),6.9167,1.0,1.0,1.0,0.0
+h = 2–3,V1: + indicadores rápidos,6.905,1.0141,1.0064,1.0217,47.9532
+h = 2–3,V2: + mês o+1 (adiantados),6.8684,1.0038,0.9973,1.0103,54.386
+h = 2–3,V3: + mês o+1 de veículos,6.8764,1.0079,1.0002,1.0154,52.0468
+h = 2–3,"V2 sem os novos: fatores + mês o+1 de câmbio, Selic, confiança",6.9095,0.9999,0.9973,1.0024,52.6316
+h = 4–12,Só histórico,8.0011,1.0484,1.0349,1.0624,25.731
+h = 4–12,V0: histórico + fatores (atual),7.7204,1.0,1.0,1.0,0.0
+h = 4–12,V1: + indicadores rápidos,7.8391,1.0376,1.0268,1.0485,26.3158
+h = 4–12,V2: + mês o+1 (adiantados),7.7752,1.0243,1.0154,1.0335,33.3333
+h = 4–12,V3: + mês o+1 de veículos,7.8,1.0303,1.0203,1.0407,30.4094
+h = 4–12,"V2 sem os novos: fatores + mês o+1 de câmbio, Selic, confiança",7.7042,0.9987,0.9959,1.0015,57.3099
