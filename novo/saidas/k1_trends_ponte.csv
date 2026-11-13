@@ -1,0 +1,49 @@
+unique_id,ativ,variante,mae,razao
+s016,"Artigos farmacêuticos, médicos, ortopédi",sem Trends,0.0202,1.0
+s016,"Artigos farmacêuticos, médicos, ortopédi",+ Trends do próprio mês,0.0205,1.0121
+s016,"Artigos farmacêuticos, médicos, ortopédi",+ Trends do mês anterior,0.0198,0.9774
+s016,"Artigos farmacêuticos, médicos, ortopédi",+ Trends do mês e do anterior,0.0202,0.9991
+s017,Combustíveis e lubrificantes,sem Trends,0.0305,1.0
+s017,Combustíveis e lubrificantes,+ Trends do próprio mês,0.0311,1.0215
+s017,Combustíveis e lubrificantes,+ Trends do mês anterior,0.0313,1.0261
+s017,Combustíveis e lubrificantes,+ Trends do mês e do anterior,0.0312,1.0231
+s018,Eletrodomésticos,sem Trends,0.0402,1.0
+s018,Eletrodomésticos,+ Trends do próprio mês,0.0409,1.0179
+s018,Eletrodomésticos,+ Trends do mês anterior,0.0409,1.019
+s018,Eletrodomésticos,+ Trends do mês e do anterior,0.0415,1.0322
+s019,Equipamentos e materiais para escritório,sem Trends,0.0675,1.0
+s019,Equipamentos e materiais para escritório,+ Trends do próprio mês,0.0675,1.0006
+s019,Equipamentos e materiais para escritório,+ Trends do mês anterior,0.0665,0.9852
+s019,Equipamentos e materiais para escritório,+ Trends do mês e do anterior,0.0677,1.0029
+s020,Hipermercados e supermercados,sem Trends,0.0187,1.0
+s020,Hipermercados e supermercados,+ Trends do próprio mês,0.0187,1.0006
+s020,Hipermercados e supermercados,+ Trends do mês anterior,0.0188,1.004
+s020,Hipermercados e supermercados,+ Trends do mês e do anterior,0.0194,1.0355
+s021,"Hipermercados, supermercados, produtos a",sem Trends,0.0182,1.0
+s021,"Hipermercados, supermercados, produtos a",+ Trends do próprio mês,0.0181,0.9986
+s021,"Hipermercados, supermercados, produtos a",+ Trends do mês anterior,0.0182,1.0046
+s021,"Hipermercados, supermercados, produtos a",+ Trends do mês e do anterior,0.0185,1.02
+s022,"Livros, jornais, revistas e papelaria",sem Trends,0.063,1.0
+s022,"Livros, jornais, revistas e papelaria",+ Trends do próprio mês,0.0626,0.9935
+s022,"Livros, jornais, revistas e papelaria",+ Trends do mês anterior,0.0627,0.9952
+s022,"Livros, jornais, revistas e papelaria",+ Trends do mês e do anterior,0.0626,0.9931
+s023,Móveis,sem Trends,0.0356,1.0
+s023,Móveis,+ Trends do próprio mês,0.0354,0.9936
+s023,Móveis,+ Trends do mês anterior,0.0362,1.0166
+s023,Móveis,+ Trends do mês e do anterior,0.0359,1.0069
+s024,Móveis e eletrodomésticos,sem Trends,0.0354,1.0
+s024,Móveis e eletrodomésticos,+ Trends do próprio mês,0.0348,0.9847
+s024,Móveis e eletrodomésticos,+ Trends do mês anterior,0.0353,0.9976
+s024,Móveis e eletrodomésticos,+ Trends do mês e do anterior,0.0354,1.0003
+s025,Outros artigos de uso pessoal e doméstic,sem Trends,0.0432,1.0
+s025,Outros artigos de uso pessoal e doméstic,+ Trends do próprio mês,0.044,1.017
+s025,Outros artigos de uso pessoal e doméstic,+ Trends do mês anterior,0.0439,1.0161
+s025,Outros artigos de uso pessoal e doméstic,+ Trends do mês e do anterior,0.0421,0.9738
+s026,"Tecidos, vestuário e calçados",sem Trends,0.0402,1.0
+s026,"Tecidos, vestuário e calçados",+ Trends do próprio mês,0.0397,0.9866
+s026,"Tecidos, vestuário e calçados",+ Trends do mês anterior,0.0419,1.0418
+s026,"Tecidos, vestuário e calçados",+ Trends do mês e do anterior,0.0409,1.0186
+s027,Varejo total,sem Trends,0.016,1.0
+s027,Varejo total,+ Trends do próprio mês,0.0158,0.9902
+s027,Varejo total,+ Trends do mês anterior,0.016,1.0012
+s027,Varejo total,+ Trends do mês e do anterior,0.0156,0.9763

@@ -1,0 +1,33 @@
+comparacao,recorte,n_series,MAPE_sem,MAPE_com,razao,IC_inf,IC_sup,pct_series_melhoram
+Atual + Google Trends × Atual (histórico + fatores),Todos os horizontes,171,7.4836,7.4869,1.0008,0.9985,1.003,46.1988
+Atual + Google Trends × Atual (histórico + fatores),h = 1,171,6.4861,6.4827,0.9988,0.9956,1.0022,46.7836
+Atual + Google Trends × Atual (histórico + fatores),h = 2–3,171,6.9167,6.9262,1.0012,0.9982,1.0042,47.3684
+Atual + Google Trends × Atual (histórico + fatores),h = 4–12,171,7.7204,7.7231,1.0008,0.9983,1.0032,47.3684
+Atual + Google Trends × Atual (histórico + fatores),"h ≤ 3 | Artigos farmacêuticos, médicos, ortopédi",13,3.4863,3.467,0.9942,0.9834,1.0053,53.8462
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Combustíveis e lubrificantes,13,5.9417,5.999,1.0115,1.0035,1.0192,15.3846
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Eletrodomésticos,13,6.7418,6.7325,0.9989,0.9917,1.0065,46.1538
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Equipamentos e materiais para escritório,13,19.3988,19.4362,1.0012,0.9984,1.004,38.4615
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Hipermercados e supermercados,13,3.0198,3.0258,1.0034,0.9945,1.0113,46.1538
+Atual + Google Trends × Atual (histórico + fatores),"h ≤ 3 | Hipermercados, supermercados, produtos a",13,2.7453,2.7643,1.0076,0.9999,1.0166,46.1538
+Atual + Google Trends × Atual (histórico + fatores),"h ≤ 3 | Livros, jornais, revistas e papelaria",13,13.4088,13.402,1.003,0.9969,1.0093,46.1538
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Móveis,13,8.4733,8.4637,1.0029,0.9959,1.0103,38.4615
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Móveis e eletrodomésticos,13,6.2563,6.2523,0.9986,0.99,1.0066,46.1538
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Outros artigos de uso pessoal e doméstic,13,7.6902,7.7377,1.0026,0.9968,1.008,30.7692
+Atual + Google Trends × Atual (histórico + fatores),"h ≤ 3 | Tecidos, vestuário e calçados",13,5.6892,5.6488,0.9932,0.986,1.0008,69.2308
+Atual + Google Trends × Atual (histórico + fatores),h ≤ 3 | Varejo total,28,2.8981,2.8936,0.9947,0.9842,1.0055,53.5714
+Histórico + Google Trends × Só histórico,Todos os horizontes,171,7.6883,7.7271,1.0003,0.9916,1.0095,52.0468
+Histórico + Google Trends × Só histórico,h = 1,171,6.3643,6.5182,1.0292,1.0223,1.0364,28.655
+Histórico + Google Trends × Só histórico,h = 2–3,171,6.9427,7.0404,1.0161,1.01,1.0232,40.9357
+Histórico + Google Trends × Só histórico,h = 4–12,171,8.0011,8.014,0.995,0.9851,1.0052,53.2164
+Histórico + Google Trends × Só histórico,"h ≤ 3 | Artigos farmacêuticos, médicos, ortopédi",13,3.5823,3.6247,1.0118,0.9916,1.0319,38.4615
+Histórico + Google Trends × Só histórico,h ≤ 3 | Combustíveis e lubrificantes,13,5.7095,6.022,1.0599,1.042,1.0821,0.0
+Histórico + Google Trends × Só histórico,h ≤ 3 | Eletrodomésticos,13,6.7628,6.6921,0.9824,0.9677,0.9972,69.2308
+Histórico + Google Trends × Só histórico,h ≤ 3 | Equipamentos e materiais para escritório,13,19.3339,19.4954,1.0059,1.001,1.0106,30.7692
+Histórico + Google Trends × Só histórico,h ≤ 3 | Hipermercados e supermercados,13,3.0248,3.0227,1.0043,0.9876,1.023,53.8462
+Histórico + Google Trends × Só histórico,"h ≤ 3 | Hipermercados, supermercados, produtos a",13,2.7514,2.7598,1.0079,0.989,1.0269,38.4615
+Histórico + Google Trends × Só histórico,"h ≤ 3 | Livros, jornais, revistas e papelaria",13,13.6054,13.6968,1.0015,0.9933,1.012,53.8462
+Histórico + Google Trends × Só histórico,h ≤ 3 | Móveis,13,8.005,8.3776,1.0387,1.0141,1.063,30.7692
+Histórico + Google Trends × Só histórico,h ≤ 3 | Móveis e eletrodomésticos,13,6.5544,6.624,1.0089,0.9973,1.0205,38.4615
+Histórico + Google Trends × Só histórico,h ≤ 3 | Outros artigos de uso pessoal e doméstic,13,7.3812,7.6085,1.0264,1.0127,1.0423,7.6923
+Histórico + Google Trends × Só histórico,"h ≤ 3 | Tecidos, vestuário e calçados",13,5.6571,5.6877,1.0057,0.9936,1.0208,61.5385
+Histórico + Google Trends × Só histórico,h ≤ 3 | Varejo total,28,2.9805,3.1142,1.054,1.0305,1.0793,21.4286

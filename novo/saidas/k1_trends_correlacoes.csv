@@ -1,0 +1,241 @@
+ativ,termo,corr_bruta,corr_com_o_que_o_historico_nao_explica
+"Artigos farmacêuticos, médicos, ortopé",calça jeans,0.013,-0.011
+"Artigos farmacêuticos, médicos, ortopé",celular,-0.009,-0.02
+"Artigos farmacêuticos, médicos, ortopé",cesta básica,-0.033,0.019
+"Artigos farmacêuticos, médicos, ortopé",farmácia,-0.003,0.073
+"Artigos farmacêuticos, médicos, ortopé",fogão,-0.077,-0.071
+"Artigos farmacêuticos, médicos, ortopé",geladeira,0.007,0.008
+"Artigos farmacêuticos, médicos, ortopé",guarda roupa,0.109,-0.001
+"Artigos farmacêuticos, médicos, ortopé",impressora,0.149,0.193
+"Artigos farmacêuticos, médicos, ortopé",livro,0.273,0.064
+"Artigos farmacêuticos, médicos, ortopé",material escolar,0.135,0.081
+"Artigos farmacêuticos, médicos, ortopé",máquina de lavar,-0.053,-0.011
+"Artigos farmacêuticos, médicos, ortopé",notebook,0.135,0.065
+"Artigos farmacêuticos, médicos, ortopé",perfume,0.064,0.035
+"Artigos farmacêuticos, médicos, ortopé",posto de gasolina,-0.077,-0.115
+"Artigos farmacêuticos, médicos, ortopé",promoção,-0.032,-0.011
+"Artigos farmacêuticos, médicos, ortopé",sofá,0.107,-0.095
+"Artigos farmacêuticos, médicos, ortopé",supermercado,-0.2,-0.066
+"Artigos farmacêuticos, médicos, ortopé",televisão,-0.074,-0.109
+"Artigos farmacêuticos, médicos, ortopé",tênis,-0.092,-0.182
+"Artigos farmacêuticos, médicos, ortopé",vestido,0.092,-0.093
+Combustíveis e lubrificantes,calça jeans,0.028,0.16
+Combustíveis e lubrificantes,celular,0.071,0.149
+Combustíveis e lubrificantes,cesta básica,-0.494,-0.111
+Combustíveis e lubrificantes,farmácia,-0.357,0.012
+Combustíveis e lubrificantes,fogão,-0.308,-0.083
+Combustíveis e lubrificantes,geladeira,-0.322,-0.074
+Combustíveis e lubrificantes,guarda roupa,-0.043,-0.061
+Combustíveis e lubrificantes,impressora,0.062,0.247
+Combustíveis e lubrificantes,livro,0.249,0.203
+Combustíveis e lubrificantes,material escolar,-0.083,0.076
+Combustíveis e lubrificantes,máquina de lavar,-0.284,-0.048
+Combustíveis e lubrificantes,notebook,-0.008,-0.066
+Combustíveis e lubrificantes,perfume,0.439,0.307
+Combustíveis e lubrificantes,posto de gasolina,-0.268,-0.247
+Combustíveis e lubrificantes,promoção,-0.263,-0.011
+Combustíveis e lubrificantes,sofá,-0.149,-0.048
+Combustíveis e lubrificantes,supermercado,-0.313,-0.238
+Combustíveis e lubrificantes,televisão,-0.083,0.132
+Combustíveis e lubrificantes,tênis,0.001,0.209
+Combustíveis e lubrificantes,vestido,0.051,0.035
+Eletrodomésticos,calça jeans,-0.278,-0.071
+Eletrodomésticos,celular,-0.139,-0.01
+Eletrodomésticos,cesta básica,-0.061,0.009
+Eletrodomésticos,farmácia,-0.368,-0.133
+Eletrodomésticos,fogão,-0.199,-0.115
+Eletrodomésticos,geladeira,-0.248,-0.117
+Eletrodomésticos,guarda roupa,-0.051,-0.102
+Eletrodomésticos,impressora,0.184,0.158
+Eletrodomésticos,livro,-0.302,-0.216
+Eletrodomésticos,material escolar,-0.233,0.003
+Eletrodomésticos,máquina de lavar,-0.355,-0.134
+Eletrodomésticos,notebook,0.292,0.06
+Eletrodomésticos,perfume,-0.131,0.056
+Eletrodomésticos,posto de gasolina,-0.062,-0.167
+Eletrodomésticos,promoção,-0.297,-0.119
+Eletrodomésticos,sofá,-0.138,-0.127
+Eletrodomésticos,supermercado,-0.286,-0.19
+Eletrodomésticos,televisão,-0.277,-0.119
+Eletrodomésticos,tênis,-0.379,-0.107
+Eletrodomésticos,vestido,-0.317,-0.253
+Equipamentos e materiais para escritór,calça jeans,0.03,-0.018
+Equipamentos e materiais para escritór,celular,0.074,-0.014
+Equipamentos e materiais para escritór,cesta básica,-0.117,-0.008
+Equipamentos e materiais para escritór,farmácia,-0.168,-0.087
+Equipamentos e materiais para escritór,fogão,-0.107,-0.107
+Equipamentos e materiais para escritór,geladeira,-0.169,-0.117
+Equipamentos e materiais para escritór,guarda roupa,0.036,-0.066
+Equipamentos e materiais para escritór,impressora,0.143,0.135
+Equipamentos e materiais para escritór,livro,0.059,0.026
+Equipamentos e materiais para escritór,material escolar,-0.116,-0.116
+Equipamentos e materiais para escritór,máquina de lavar,-0.122,-0.052
+Equipamentos e materiais para escritór,notebook,0.223,0.048
+Equipamentos e materiais para escritór,perfume,0.097,0.086
+Equipamentos e materiais para escritór,posto de gasolina,-0.049,-0.065
+Equipamentos e materiais para escritór,promoção,-0.123,-0.06
+Equipamentos e materiais para escritór,sofá,-0.12,-0.174
+Equipamentos e materiais para escritór,supermercado,-0.407,-0.31
+Equipamentos e materiais para escritór,televisão,-0.143,-0.066
+Equipamentos e materiais para escritór,tênis,-0.123,-0.022
+Equipamentos e materiais para escritór,vestido,0.099,-0.005
+Hipermercados e supermercados,calça jeans,-0.299,-0.098
+Hipermercados e supermercados,celular,-0.128,0.006
+Hipermercados e supermercados,cesta básica,-0.135,-0.097
+Hipermercados e supermercados,farmácia,-0.285,-0.092
+Hipermercados e supermercados,fogão,-0.32,-0.132
+Hipermercados e supermercados,geladeira,-0.277,-0.057
+Hipermercados e supermercados,guarda roupa,-0.034,0.007
+Hipermercados e supermercados,impressora,-0.18,-0.219
+Hipermercados e supermercados,livro,-0.095,-0.212
+Hipermercados e supermercados,material escolar,-0.213,-0.066
+Hipermercados e supermercados,máquina de lavar,-0.358,-0.183
+Hipermercados e supermercados,notebook,0.008,-0.032
+Hipermercados e supermercados,perfume,-0.069,-0.006
+Hipermercados e supermercados,posto de gasolina,0.074,0.054
+Hipermercados e supermercados,promoção,-0.187,-0.045
+Hipermercados e supermercados,sofá,-0.076,-0.137
+Hipermercados e supermercados,supermercado,-0.235,0.015
+Hipermercados e supermercados,televisão,-0.242,-0.125
+Hipermercados e supermercados,tênis,-0.274,-0.182
+Hipermercados e supermercados,vestido,-0.118,-0.081
+"Hipermercados, supermercados, produtos",calça jeans,-0.274,-0.084
+"Hipermercados, supermercados, produtos",celular,-0.114,0.002
+"Hipermercados, supermercados, produtos",cesta básica,-0.14,-0.091
+"Hipermercados, supermercados, produtos",farmácia,-0.285,-0.09
+"Hipermercados, supermercados, produtos",fogão,-0.3,-0.121
+"Hipermercados, supermercados, produtos",geladeira,-0.263,-0.051
+"Hipermercados, supermercados, produtos",guarda roupa,-0.019,0.007
+"Hipermercados, supermercados, produtos",impressora,-0.177,-0.215
+"Hipermercados, supermercados, produtos",livro,-0.078,-0.204
+"Hipermercados, supermercados, produtos",material escolar,-0.198,-0.061
+"Hipermercados, supermercados, produtos",máquina de lavar,-0.358,-0.184
+"Hipermercados, supermercados, produtos",notebook,0.005,-0.031
+"Hipermercados, supermercados, produtos",perfume,-0.066,-0.008
+"Hipermercados, supermercados, produtos",posto de gasolina,0.075,0.047
+"Hipermercados, supermercados, produtos",promoção,-0.169,-0.038
+"Hipermercados, supermercados, produtos",sofá,-0.07,-0.141
+"Hipermercados, supermercados, produtos",supermercado,-0.237,0.011
+"Hipermercados, supermercados, produtos",televisão,-0.242,-0.127
+"Hipermercados, supermercados, produtos",tênis,-0.268,-0.189
+"Hipermercados, supermercados, produtos",vestido,-0.097,-0.079
+"Livros, jornais, revistas e papelaria",calça jeans,0.305,0.197
+"Livros, jornais, revistas e papelaria",celular,0.177,0.154
+"Livros, jornais, revistas e papelaria",cesta básica,-0.465,-0.047
+"Livros, jornais, revistas e papelaria",farmácia,-0.368,-0.082
+"Livros, jornais, revistas e papelaria",fogão,-0.166,0.017
+"Livros, jornais, revistas e papelaria",geladeira,-0.251,-0.034
+"Livros, jornais, revistas e papelaria",guarda roupa,-0.033,-0.016
+"Livros, jornais, revistas e papelaria",impressora,0.312,0.299
+"Livros, jornais, revistas e papelaria",livro,0.197,0.049
+"Livros, jornais, revistas e papelaria",material escolar,0.062,0.191
+"Livros, jornais, revistas e papelaria",máquina de lavar,-0.277,-0.059
+"Livros, jornais, revistas e papelaria",notebook,0.113,0.101
+"Livros, jornais, revistas e papelaria",perfume,0.503,0.28
+"Livros, jornais, revistas e papelaria",posto de gasolina,-0.076,-0.141
+"Livros, jornais, revistas e papelaria",promoção,-0.224,-0.11
+"Livros, jornais, revistas e papelaria",sofá,-0.046,0.034
+"Livros, jornais, revistas e papelaria",supermercado,-0.371,-0.23
+"Livros, jornais, revistas e papelaria",televisão,0.097,0.084
+"Livros, jornais, revistas e papelaria",tênis,0.048,0.125
+"Livros, jornais, revistas e papelaria",vestido,0.3,0.127
+Móveis,calça jeans,-0.243,-0.089
+Móveis,celular,-0.173,-0.118
+Móveis,cesta básica,0.103,0.16
+Móveis,farmácia,-0.151,-0.082
+Móveis,fogão,-0.082,-0.007
+Móveis,geladeira,-0.179,-0.03
+Móveis,guarda roupa,-0.044,-0.069
+Móveis,impressora,0.097,0.175
+Móveis,livro,-0.161,-0.081
+Móveis,material escolar,-0.021,0.075
+Móveis,máquina de lavar,-0.252,-0.131
+Móveis,notebook,0.101,0.083
+Móveis,perfume,-0.262,-0.113
+Móveis,posto de gasolina,-0.155,-0.202
+Móveis,promoção,-0.163,-0.076
+Móveis,sofá,0.076,-0.053
+Móveis,supermercado,-0.254,-0.129
+Móveis,televisão,-0.086,0.003
+Móveis,tênis,-0.143,-0.103
+Móveis,vestido,-0.169,-0.17
+Móveis e eletrodomésticos,calça jeans,-0.247,-0.072
+Móveis e eletrodomésticos,celular,-0.083,-0.009
+Móveis e eletrodomésticos,cesta básica,-0.032,0.057
+Móveis e eletrodomésticos,farmácia,-0.349,-0.131
+Móveis e eletrodomésticos,fogão,-0.164,-0.087
+Móveis e eletrodomésticos,geladeira,-0.265,-0.105
+Móveis e eletrodomésticos,guarda roupa,-0.008,-0.088
+Móveis e eletrodomésticos,impressora,0.126,0.161
+Móveis e eletrodomésticos,livro,-0.319,-0.204
+Móveis e eletrodomésticos,material escolar,-0.157,0.059
+Móveis e eletrodomésticos,máquina de lavar,-0.364,-0.151
+Móveis e eletrodomésticos,notebook,0.265,0.067
+Móveis e eletrodomésticos,perfume,-0.192,0.002
+Móveis e eletrodomésticos,posto de gasolina,-0.085,-0.201
+Móveis e eletrodomésticos,promoção,-0.271,-0.106
+Móveis e eletrodomésticos,sofá,-0.064,-0.113
+Móveis e eletrodomésticos,supermercado,-0.32,-0.194
+Móveis e eletrodomésticos,televisão,-0.251,-0.105
+Móveis e eletrodomésticos,tênis,-0.342,-0.111
+Móveis e eletrodomésticos,vestido,-0.233,-0.222
+Outros artigos de uso pessoal e domést,calça jeans,0.076,-0.022
+Outros artigos de uso pessoal e domést,celular,-0.08,-0.106
+Outros artigos de uso pessoal e domést,cesta básica,0.317,0.249
+Outros artigos de uso pessoal e domést,farmácia,0.082,-0.087
+Outros artigos de uso pessoal e domést,fogão,0.165,-0.007
+Outros artigos de uso pessoal e domést,geladeira,0.127,0.013
+Outros artigos de uso pessoal e domést,guarda roupa,0.204,0.043
+Outros artigos de uso pessoal e domést,impressora,0.152,0.088
+Outros artigos de uso pessoal e domést,livro,-0.042,-0.114
+Outros artigos de uso pessoal e domést,material escolar,0.138,-0.016
+Outros artigos de uso pessoal e domést,máquina de lavar,0.094,-0.075
+Outros artigos de uso pessoal e domést,notebook,0.264,0.142
+Outros artigos de uso pessoal e domést,perfume,-0.246,-0.069
+Outros artigos de uso pessoal e domést,posto de gasolina,0.082,0.003
+Outros artigos de uso pessoal e domést,promoção,0.041,-0.074
+Outros artigos de uso pessoal e domést,sofá,0.311,0.055
+Outros artigos de uso pessoal e domést,supermercado,-0.003,-0.109
+Outros artigos de uso pessoal e domést,televisão,0.04,-0.058
+Outros artigos de uso pessoal e domést,tênis,0.01,-0.037
+Outros artigos de uso pessoal e domést,vestido,0.051,-0.128
+"Tecidos, vestuário e calçados",calça jeans,0.11,0.065
+"Tecidos, vestuário e calçados",celular,-0.038,-0.009
+"Tecidos, vestuário e calçados",cesta básica,-0.006,0.129
+"Tecidos, vestuário e calçados",farmácia,-0.082,-0.13
+"Tecidos, vestuário e calçados",fogão,-0.084,-0.029
+"Tecidos, vestuário e calçados",geladeira,-0.106,-0.016
+"Tecidos, vestuário e calçados",guarda roupa,-0.098,-0.047
+"Tecidos, vestuário e calçados",impressora,0.206,0.18
+"Tecidos, vestuário e calçados",livro,0.048,-0.021
+"Tecidos, vestuário e calçados",material escolar,0.065,0.113
+"Tecidos, vestuário e calçados",máquina de lavar,-0.049,-0.046
+"Tecidos, vestuário e calçados",notebook,0.016,0.002
+"Tecidos, vestuário e calçados",perfume,0.192,0.074
+"Tecidos, vestuário e calçados",posto de gasolina,0.041,0.003
+"Tecidos, vestuário e calçados",promoção,0.026,0.01
+"Tecidos, vestuário e calçados",sofá,0.005,-0.045
+"Tecidos, vestuário e calçados",supermercado,-0.283,-0.25
+"Tecidos, vestuário e calçados",televisão,0.042,-0.06
+"Tecidos, vestuário e calçados",tênis,0.173,0.102
+"Tecidos, vestuário e calçados",vestido,0.211,0.063
+Varejo total,calça jeans,-0.163,-0.034
+Varejo total,celular,-0.082,-0.009
+Varejo total,cesta básica,-0.111,0.063
+Varejo total,farmácia,-0.3,-0.108
+Varejo total,fogão,-0.25,-0.126
+Varejo total,geladeira,-0.27,-0.079
+Varejo total,guarda roupa,0.011,-0.059
+Varejo total,impressora,0.038,0.007
+Varejo total,livro,-0.043,-0.166
+Varejo total,material escolar,-0.117,-0.001
+Varejo total,máquina de lavar,-0.326,-0.17
+Varejo total,notebook,0.146,0.009
+Varejo total,perfume,-0.008,0.037
+Varejo total,posto de gasolina,-0.026,-0.071
+Varejo total,promoção,-0.212,-0.083
+Varejo total,sofá,-0.021,-0.175
+Varejo total,supermercado,-0.339,-0.139
+Varejo total,televisão,-0.213,-0.109
+Varejo total,tênis,-0.207,-0.074
+Varejo total,vestido,-0.055,-0.159
