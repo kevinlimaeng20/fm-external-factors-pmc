@@ -1,0 +1,25 @@
+quartil_ruido,custo,servico,regra
+1 (estável),1.74,42.38,A: pedir a previsão
+2,2.26,43.77,A: pedir a previsão
+3,4.55,42.99,A: pedir a previsão
+4 (ruidosa),4.78,47.25,A: pedir a previsão
+1 (estável),1.11,96.59,B: ingênuo + margem histórica
+2,1.38,95.37,B: ingênuo + margem histórica
+3,2.62,81.67,B: ingênuo + margem histórica
+4 (ruidosa),2.97,85.38,B: ingênuo + margem histórica
+1 (estável),0.72,93.31,C: quantil dos modelos
+2,1.11,95.74,C: quantil dos modelos
+3,2.23,92.71,C: quantil dos modelos
+4 (ruidosa),3.42,95.49,C: quantil dos modelos
+1 (estável),1.06,98.21,D: margem por horizonte
+2,1.19,95.85,D: margem por horizonte
+3,2.26,81.95,D: margem por horizonte
+4 (ruidosa),2.71,81.77,D: margem por horizonte
+1 (estável),0.71,89.9,E: margem pela incerteza da série
+2,1.04,93.32,E: margem pela incerteza da série
+3,2.13,89.48,E: margem pela incerteza da série
+4 (ruidosa),2.97,93.41,E: margem pela incerteza da série
+1 (estável),0.77,88.07,F: treinado para o custo
+2,1.06,88.61,F: treinado para o custo
+3,2.43,78.79,F: treinado para o custo
+4 (ruidosa),2.92,81.06,F: treinado para o custo
